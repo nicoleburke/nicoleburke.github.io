@@ -152,6 +152,7 @@ footer:
 
 
 # Reading Files
+# THIS WORKS NOW! 
 include:
   - .htaccess
   - _pages
