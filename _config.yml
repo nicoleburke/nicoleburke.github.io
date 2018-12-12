@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "contrast", "default","air", "aqua","dar
 locale                   : "en-US"
 title                    : "Nicole Burke | PhD Student"
 title_separator          : "|"
-name                     : "Is this working?"
+name                     : "Nicole Burke"
 description              : # "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Nicole Burke"
   avatar           : /assets/images/Nicole-Burke.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Someone hire me!"
-  location         : "University of Chicago"
+  bio              : "PhD Student Developmental Psychology - University of Chicago"
+  #location         : "University of Chicago"
   email            :
   links:
     - label: "Email"
