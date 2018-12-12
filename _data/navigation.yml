@@ -3,8 +3,8 @@ main:
   - title: "Quick-Start Guide"
     url: /docs/_docs/01-quick-start-guide.md
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About Me"
-    # url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Testing"
+    url: /docs/_docs/11-posts.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
