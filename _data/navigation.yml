@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: /_posts/01-quick-start-guide.md
+    url: testing.html
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Testing"
-    url: /_posts/11-posts.md
+    url: /_data/testing.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

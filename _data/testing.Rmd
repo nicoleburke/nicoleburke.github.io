@@ -1,0 +1,12 @@
+---
+title: "Testing"
+author: "Nicole"
+date: "12/12/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Just trying to see if I can get my website to work. 
