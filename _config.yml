@@ -124,9 +124,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/nicoleburke
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "R package for eyetracking"
+      icon: "fab fa-fw fa-suitcase"
+      url: https://github.com/nicoleburke/aoianalysis
 
 # Site Footer
 footer:
