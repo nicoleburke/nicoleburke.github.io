@@ -219,7 +219,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+# seeing if i can get one post to show on homepage 
+paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -287,6 +288,7 @@ defaults:
       path: ""
       type: posts
     values:
+      # This changed the layout of posts! not the main page though...
       layout: splash # single
       author_profile: true
       read_time: true
