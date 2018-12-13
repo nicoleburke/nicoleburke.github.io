@@ -1,5 +1,6 @@
 # main links
-main:
+#main:
+links: 
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - label: "Email"
