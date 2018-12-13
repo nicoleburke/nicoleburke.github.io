@@ -5,7 +5,7 @@ layout: splash
 ---
 ## About Me  
 
-![](Nicole-Burke.jpg)
+![test](Nicole-Burke.jpg)
 
 
 
