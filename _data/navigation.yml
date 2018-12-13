@@ -1,28 +1,15 @@
 # main links
 main:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nicoleburke@uchicago.edu
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/nicoleburke0
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/nicoleburke
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: https://www.linkedin.com/in/nicole-burke/
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "Email"
+  - title: "email"
     #icon: "fas fa-fw fa-envelope-square"
-    #url: mailto:nicoleburke@uchicago.edu
-  #- title: "GitHub"
+    url: mailto:nicoleburke@uchicago.edu
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nicole-burke/
+  - title: "GitHub"
     #icon: "fab fa-fw fa-github"
-    #url: https://github.com/nicoleburke
-  #- title: "Twitter"
+    url: https://github.com/nicoleburke
+  - title: "Twitter"
     #icon: "fab fa-fw fa-twitter-square"
-    #url: https://twitter.com/nicoleburke0
+    url: https://twitter.com/nicoleburke0
   # - title: "Sitemap"
   #   url: /sitemap/
