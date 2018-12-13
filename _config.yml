@@ -140,9 +140,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/nicoleburke
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: https://www.linkedin.com/in/nicole-burke/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
