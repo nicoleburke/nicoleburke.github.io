@@ -2,11 +2,14 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About Me"
-    url: # stil need to figure out 
-  - title: "Research and CV"
-    url: # figure out 
-  - title: "aoianalysis package"
-    url: https://github.com/nicoleburke/aoianalysis
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: nicoleburke@uchicago.edu
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: https://github.com/nicoleburke
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: https://twitter.com/nicoleburke0
   # - title: "Sitemap"
   #   url: /sitemap/
