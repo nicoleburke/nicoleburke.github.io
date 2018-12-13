@@ -304,7 +304,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 # I don't think this did anything!
 # defaults:
