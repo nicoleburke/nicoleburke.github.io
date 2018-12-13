@@ -2,9 +2,9 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "Email"
-    #icon: "fas fa-fw fa-envelope-square"
-    #url: nicoleburke@uchicago.edu
+  - title: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: mailto:nicoleburke@uchicago.edu
   #- title: "GitHub"
     #icon: "fab fa-fw fa-github"
     #url: https://github.com/nicoleburke
