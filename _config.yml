@@ -141,7 +141,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: https://github.com/nicoleburke
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: https://www.linkedin.com/in/nicole-burke/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
