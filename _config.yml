@@ -284,19 +284,27 @@ compress_html:
 
 
 # Defaults
-defaults:
+#defaults:
   # _posts
+  #- scope:
+      #path: ""
+      #type: posts
+    #values:
+      # This changed the layout of posts! not the main page though...
+      #layout: splash # single
+      #author_profile: true
+      #read_time: false
+      #comments: # true
+      #share: true
+      #related: true
+defaults:
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
-      # This changed the layout of posts! not the main page though...
-      layout: splash # single
+      layout: single
       author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true
 
 # I don't think this did anything!
 # defaults:
