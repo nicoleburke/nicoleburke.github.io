@@ -303,3 +303,16 @@ defaults:
      # type: pages
     #values:
       #layout: single
+gallery:
+  - url: /assets/images/Nicole-Burke.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/uch.jpg
+    image_path: /assets/images/uch.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  #- url: /assets/images/unsplash-gallery-image-3.jpg
+    #image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    #alt: "placeholder image 3"
+    #title: "Image 3 title caption"
