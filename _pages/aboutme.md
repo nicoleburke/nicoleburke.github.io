@@ -5,7 +5,9 @@ layout: splash
 ---
 ## About Me  
 
-![test](Nicole-Burke.jpg)
+<p align="center">
+  <img src="Nicole-Burke.jpg" width="300">
+</p>
 
 
 
