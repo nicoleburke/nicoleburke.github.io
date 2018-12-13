@@ -151,7 +151,7 @@ footer:
       # url:
 
 # Navigation bar 
-Navigation:
+header:
   links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
