@@ -125,7 +125,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: https://github.com/nicoleburke
     - label: "R package for eyetracking"
-      icon: "fab fa-fw fa-cubes"
+      icon: "fas fa-fw fa-cubes"
       url: https://github.com/nicoleburke/aoianalysis
 
 # Site Footer
