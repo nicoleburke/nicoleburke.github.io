@@ -133,13 +133,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/nicoleburke0
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: https://github.com/nicoleburke
+      url: https://github.com/nicoleburke
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
