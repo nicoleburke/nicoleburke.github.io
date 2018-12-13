@@ -1,16 +1,15 @@
 # main links
-#main:
-links: 
+main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - label: "Email"
-    icon: "fas fa-fw fa-envelope-square"
+    #icon: "fas fa-fw fa-envelope-square"
     url: nicoleburke@uchicago.edu
   - label: "GitHub"
-    icon: "fab fa-fw fa-github"
+    #icon: "fab fa-fw fa-github"
     url: https://github.com/nicoleburke
   - label: "Twitter"
-    icon: "fab fa-fw fa-twitter-square"
+    #icon: "fab fa-fw fa-twitter-square"
     url: https://twitter.com/nicoleburke0
   # - title: "Sitemap"
   #   url: /sitemap/
