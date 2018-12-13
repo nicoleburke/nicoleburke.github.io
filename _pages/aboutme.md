@@ -4,4 +4,6 @@ permalink: /aboutme/
 layout: splash
 ---
 
-Seeing if this is going to work. 
+### Nicole Burke 
+
+![Picture of Me](Nicole-Burke.jpg)
