@@ -5,7 +5,7 @@ layout: splash
 ---
 ## aoianalysis  
 
-aoianalysis is a R package I developed available on my ![github] (https://github.com/nicoleburke/aoianalysis). This package contains a few simple functions to make dealing with raw eyetracking data a little easier. 
+aoianalysis is a R package I developed available on my github (https://github.com/nicoleburke/aoianalysis). This package contains a few simple functions to make dealing with raw eyetracking data a little easier. 
 
 ### Important disclaimer
 
@@ -13,7 +13,25 @@ aoianalysis is a R package I developed available on my ![github] (https://github
 2. Given the first point, this package is still a work in progress! Please read carefully below about how your data should be set-up to use each of these functions. You should also feel free to contact me (nicoleburke@uchicago.edu) if you have any questions or run into any problems. 
 
 
+### How to install 
+devtools::install_github("nicoleburke/aoianalysis")
+library(aoianalysis)
 
+### Data set-up
+
+### The functions! 
+
+The descriptions are the same as in the documentation in the package. Use help("functionname") to pull up the description in Rstudio. 
+
+#### firstlook 
+
+#### firstlook_gp
+
+#### switchestotal
+
+#### getridofNA
+
+#### getridofNA_gp 
 
 
 
