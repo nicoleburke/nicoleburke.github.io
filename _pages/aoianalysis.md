@@ -1,7 +1,7 @@
 ---
 title: "aoianalysis package page"
 permalink: /aoianalysis/
-layout: splash
+layout: single
 ---
 # aoianalysis  
 
