@@ -17,6 +17,7 @@ I graduated with a B.A. in Psychology and Cognitive Science from Northwestern Un
 ## Interets beyond science 
 
 Long distance runner, triathlete, R-ladies member 
+![rladies](rladies.jpg) ![run](runchi.png)
 
 
 
