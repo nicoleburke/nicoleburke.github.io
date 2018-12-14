@@ -1,7 +1,8 @@
 ---
 title: "About Me"
 permalink: /aboutme/
-layout: collection
+layout: single
+author_profile: true
 ---
 ## About Me 
 
