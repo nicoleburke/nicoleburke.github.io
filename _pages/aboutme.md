@@ -14,6 +14,9 @@ I am a fourth year PhD student in Developmental Psychology at the University of 
 
 I graduated with a B.A. in Psychology and Cognitive Science from Northwestern University in 2015. As an undergraduate, I worked with Dr. Amy Booth and Dr. Sandra Waxman at Northwestern and Dr. Frank Keil at Yale University studying word learning, language development, children’s causal reasoning, and adult’s reasoning about explanatory depth.
 
+## Interets beyond science 
+
+Long distance runner, triathlete, R-ladies member 
 
 
 
