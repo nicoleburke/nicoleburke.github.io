@@ -5,7 +5,7 @@ layout: splash
 ---
 ## aoianalysis  
 
-aoianalysis is a R package I developed available on my [github!] (https://github.com/nicoleburke/aoianalysis). This package contains a few simple functions to make dealing with raw eyetracking data a little easier. 
+aoianalysis is a R package I developed available on my ![github] (https://github.com/nicoleburke/aoianalysis). This package contains a few simple functions to make dealing with raw eyetracking data a little easier. 
 
 ### Important disclaimer
 
