@@ -1,15 +1,14 @@
 # main links
 main:
+  - title: "Research"
+    url: /research/
+  - title: "aoianalysis"
+    url: /aoianalysis/
   - title: "email"
-    #icon: "fas fa-fw fa-envelope-square"
     url: mailto:nicoleburke@uchicago.edu
-  - title: LinkedIn
+  - title: "LinkedIn""
     url: https://www.linkedin.com/in/nicole-burke/
   - title: "GitHub"
-    #icon: "fab fa-fw fa-github"
     url: https://github.com/nicoleburke
   - title: "Twitter"
-    #icon: "fab fa-fw fa-twitter-square"
     url: https://twitter.com/nicoleburke0
-  # - title: "Sitemap"
-  #   url: /sitemap/
