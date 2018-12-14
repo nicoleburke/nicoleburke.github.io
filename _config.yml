@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/nicoleburke0
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin-square"
       url: https://www.linkedin.com/in/nicole-burke/
     - label: "R package for eyetracking"
       icon: "fas fa-fw fa-cubes"
