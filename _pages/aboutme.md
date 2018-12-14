@@ -1,7 +1,6 @@
 ---
 permalink: /aboutme/
-layout: single
-author_profile: true
+layout: splash
 ---
 ### About Me 
 
