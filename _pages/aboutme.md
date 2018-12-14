@@ -1,9 +1,9 @@
 ---
 permalink: /aboutme/
-layout: splash
+layout: archive
 ---
 
-<img src="nicoleburke.png" align="center">
+![me](nicoleburke.png)
 
 ## About Me 
 
