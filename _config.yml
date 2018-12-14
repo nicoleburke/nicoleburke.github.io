@@ -105,15 +105,15 @@ analytics:
 author:
   name             : "Nicole Burke"
   avatar           : /assets/images/Nicole-Burke.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student Developmental Psychology - University of Chicago"
-  #location         : "University of Chicago"
+  #bio              : "PhD Student Developmental Psychology - University of Chicago"
+  location         : "University of Chicago"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: nicoleburke@uchicago.edu
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    #- label: "Website"
+      #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -121,8 +121,8 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/nicoleburke0
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "LinkedIn"
+      #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "R package for eyetracking"
       icon: "fas fa-fw fa-cubes"
