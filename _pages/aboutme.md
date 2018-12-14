@@ -3,7 +3,7 @@ permalink: /aboutme/
 layout: splash
 ---
 
-<img scr="nicoleburke.png" align="center">
+<img src="nicoleburke.png" align="center">
 
 ## About Me 
 
