@@ -21,9 +21,20 @@ I graduated with a B.A. in Psychology and Cognitive Science from Northwestern Un
 Long distance runner, triathlete, R-ladies Chicago, travel  
 ![rladies](rladies.jpg) ![run](runchi.png)
 
-{% include image.html url="/assets/images/skelligmichael.JPG" description="Skellig Michael - off the southwest coast of Ireland. Or "The Place Star Wars was filmed!" %}
+![skilligmichael] (skelligmichael.JPG)  ![skilligmichael2] (skelligmichael2.JPG)
 
-{% include image.html url="/assets/images/capetown.JPG" description="Cape Town, South Africa." %}
+Skillig Michael - an island off the southwest coast of Ireland. Also "The Place Star Wars was filmed!"
+
+![capetown] (capetown.JPG)  ![divingboard] (divingboard.PNG)  ![paraglide] (paraglide.JPG)
+
+Cape Town, South Africa. I was able to do some exploring after an amazaing ISGS! 
+
+
+
+
+
+
+
 
 
 
