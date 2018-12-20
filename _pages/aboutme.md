@@ -18,8 +18,12 @@ I graduated with a B.A. in Psychology and Cognitive Science from Northwestern Un
 
 ## Interests beyond science 
 
-Long distance runner, triathlete, R-ladies Chicago 
+Long distance runner, triathlete, R-ladies Chicago, travel  
 ![rladies](rladies.jpg) ![run](runchi.png)
+
+{% include image.html url="/assets/images/skelligmichael.JPG" description="Skellig Michael - off the southwest coast of Ireland. Or "The Place Star Wars was filmed!" %}
+
+{% include image.html url="/assets/images/capetown.JPG" description="Cape Town, South Africa." %}
 
 
 
