@@ -3,7 +3,7 @@ permalink: /aboutme/
 layout: splash
 ---
 
-                                             ![me](nicoleburke.png)
+![me](nicoleburke.png)
 
 ## About Me 
 
@@ -19,4 +19,22 @@ I graduated with a B.A. in Psychology and Cognitive Science from Northwestern Un
 ## Interests beyond science 
 
 Long distance runner, triathlete, R-ladies Chicago, travel  
+
+
 ![rladies](rladies.jpg) ![run](runchi.png)
+
+
+Skellig Michael - an island off the southwest coast of Ireland. Also, "The Place Star Wars was filmed!"
+
+
+![skelligmichael](skelligmichael_small.png) ![skelligmichael2](skelligmichael2_small.png)
+
+
+
+Cape Town, South Africa. I was able to do some exploring after an amazing ISGS! 
+
+
+![capetown](capetown_small.png) ![divingboard](divingboard_small.png) ![paraglide](paraglide_small.png)
+
+
+
