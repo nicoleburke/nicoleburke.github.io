@@ -2,8 +2,8 @@
 main:
   - title: "Research Interests"
     url: /research/
-  - title: "email"
-    url: mailto:nicoleburke@uchicago.edu
+  #- title: "email"
+    #url: mailto:nicoleburke@uchicago.edu
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/nicole-burke/
   - title: "GitHub"
