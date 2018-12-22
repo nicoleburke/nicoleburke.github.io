@@ -1,26 +1,12 @@
 # main links
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nicoleburke@uchicago.edu
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/nicoleburke0
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/nicoleburke
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: https://www.linkedin.com/in/nicole-burke/
-#main:
-  #- title: "Research Interests"
-    #url: /research/
-  #- title: "email"
-    #url: mailto:nicoleburke@uchicago.edu
-  #- title: "LinkedIn"
-    #url: https://www.linkedin.com/in/nicole-burke/
-  #- title: "GitHub"
-    #url: https://github.com/nicoleburke
-  #- title: "Twitter"
-    #url: https://twitter.com/nicoleburke0
+main:
+  - title: "Research Interests"
+    url: /research/
+  - title: "email"
+    url: mailto:nicoleburke@uchicago.edu
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/nicole-burke/
+  - title: "GitHub"
+    url: https://github.com/nicoleburke
+  - title: "Twitter"
+    url: https://twitter.com/nicoleburke0
