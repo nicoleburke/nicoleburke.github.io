@@ -13,7 +13,7 @@ The broad, theoretical question driving my research: how do variations in early 
 
 Testing a theory
 
-![icis2018](ICIS 2018_SNQ_FINAL.jgp)
+![icis2018](https://drive.google.com/file/d/1d-Tm8r77QaiSwANCAiHFakeVkAqNQn53/view?usp=sharing)
 
 
 
