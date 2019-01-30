@@ -1,6 +1,7 @@
 ---
+title: "Data Projects"
 permalink: /dataprojects/
-layout: single
+layout: splash
 ---
 ## Data Projects 
 
@@ -13,6 +14,7 @@ devtools::install_github("nicoleburke/aoianalysis")
 library(aoianalysis)
 
 For detailed information about how your data should be set-up, please see my page [aoianalysis](https://nicoleburke.github.io/aoianalysis/). 
+
 
 
 2. **USbabynames**: A Shiny app using data from the R package ‘babynames’ to search the US census data for baby names. Check out the website [here](https://nicoleburke.shinyapps.io/USbabynames-website/).
