@@ -11,6 +11,8 @@ I am a fourth year PhD student in Developmental Psychology at the University of 
 
 Feel free to contact me at [nicoleburke@uchicago.edu](mailto:nicoleburke@uchicago.edu).
 
+Click here for my [CV](https://drive.google.com/file/d/1oPEIkdSCeYLh1G_dqREh1MY11RJaFzy3/view?usp=sharing). 
+
 
 ## Background 
 
