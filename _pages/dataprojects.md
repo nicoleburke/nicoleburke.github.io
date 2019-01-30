@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Data Projects"
 permalink: /dataprojects/
-layout: single
+layout: splash
 ---
 ## Data Projects 
 
