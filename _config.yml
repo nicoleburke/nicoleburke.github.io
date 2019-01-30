@@ -107,7 +107,7 @@ author:
   avatar           : /assets/images/Nicole-Burke.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student Developmental Psychology"
   #location         : "University of Chicago"
-  email            :
+  #email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -118,9 +118,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/nicoleburke
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/nicoleburke0
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: https://twitter.com/nicoleburke0
 
 # Site Footer
 footer:
