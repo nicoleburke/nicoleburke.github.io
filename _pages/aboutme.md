@@ -1,6 +1,6 @@
 ---
 permalink: /aboutme/
-layout: splash
+layout: archive
 ---
 
 ![me](nicoleburke.png)
