@@ -2,13 +2,12 @@
 main:
   - title: "Research Interests"
     url: /research/
-  #- title: "LinkedIn"
-    #url: https://www.linkedin.com/in/nicole-burke/
-  - title: "Data Projects"
-    url: /dataprojects/
-  - title: "aoianalysis"
-    url: /aoianalysis/
   - title: "Social Network Survey"
     url: /socialnetworksurvey/
-  #- title: "Twitter"
-    #url: https://twitter.com/nicoleburke0
+  #- title: "LinkedIn"
+    #url: https://www.linkedin.com/in/nicole-burke/
+  - title: "aoianalysis"
+    url: /aoianalysis/
+  - title: "Data Projects"
+    url: /dataprojects/
+
