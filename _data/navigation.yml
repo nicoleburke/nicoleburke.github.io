@@ -8,5 +8,7 @@ main:
     url: /dataprojects/
   - title: "aoianalysis"
     url: /aoianalysis/
+  - title: "Social Network Survey"
+    url: /socialnetworksurvey/
   #- title: "Twitter"
     #url: https://twitter.com/nicoleburke0
