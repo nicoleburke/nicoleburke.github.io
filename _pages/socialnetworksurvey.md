@@ -18,7 +18,7 @@ devtools::install_github("nicoleburke/Social-Network-Survey")
 
 library(SocialNetworkSurvey)
 
-## Data set-up 
+## How to use package to extract data 
 
 I wrote these functions to take the raw Qualtrics output as it is. The idea is that a person can hit "Export" on Qualtrics, run the .csv file through these functions, and end up with the dataframe they need. With this in mind, before we can extract the Social Network Data, we need to clean the Qualtrics output and prepare a dataframe that has each relationship or "node" on a separate line. Follow the steps below to get the Social Network Data! 
 
@@ -27,6 +27,12 @@ I wrote these functions to take the raw Qualtrics output as it is. The idea is t
 - Export the data as a .csv file. Make sure the SubjectIDs are *numeric* values. I highly recommend using numbers as opposed to calling your subjects something like "Subject01". 
     
 - Import the .csv file into R. Run the .csv file in the *clean_qualtrics* function. This will do 3 things; change NAs into 9999, rename the SubjectID column, and re-order the SubjectID column. This is neccessary in order to run the other functions. 
+
+```{r}
+# Testing a theory
+help("functionname")
+
+```
 
 
 
