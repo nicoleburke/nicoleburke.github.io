@@ -28,8 +28,8 @@ I wrote these functions to take the raw Qualtrics output as it is. The idea is t
     
 - Import the .csv file into R. Run the .csv file in the *clean_qualtrics* function. This will do 3 things; change NAs into 9999, rename the SubjectID column, and re-order the SubjectID column. This is neccessary in order to run the other functions. 
 
-```{r}
-# Testing a theory
+Testing a theory
+```
 help("functionname")
 
 ```
