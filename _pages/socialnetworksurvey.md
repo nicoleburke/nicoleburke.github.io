@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Social Network Survey page"
 permalink: /socialnetworksurvey/
-layout: single
+layout: splash
 ---
 # Social Network Survey 
 
