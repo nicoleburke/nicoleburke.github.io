@@ -24,14 +24,16 @@ I wrote these functions to take the raw Qualtrics output as it is. The idea is t
 
 ### Step 1: Clean Qualtrics output and create a dataframe with each node per line. 
 
-- Export the data as a .csv file. Make sure the SubjectIDs are *numeric* values. I highly recommend using numbers as opposed to calling your subjects something like "Subject01". 
-    
-- Import the .csv file into R. Run the .csv file in the *clean_qualtrics* function. This will do 3 things; change NAs into 9999, rename the SubjectID column, and re-order the SubjectID column. This is neccessary in order to run the other functions. 
+Export the data as a .csv file and import it into R. Run the .csv file in the **clean_qualtrics** function. This will do 3 things; change NAs into 9999, rename the SubjectID column, and re-order the SubjectID column. This is neccessary in order to run the other functions. 
 
-Testing a theory
 ```
-help("functionname")
+library(SocialNetworkSurvey)
 
+# import the raw qualtrics data 
+rawqualtricsoutput <- read.csv("rawqualtricsoutput.csv")
+
+# run the raw data into the 'clean_qualtrics' function
+qualtricsdata <- clean_qualtrics(rawqualtricsoutput)
 ```
 
 
