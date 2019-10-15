@@ -5,13 +5,19 @@ layout: splash
 ---
 ## Research Interests
 
-The broad, theoretical question driving my research: how do variations in early social experience affect social cognitive development? I explore this question with three lines of research: 
+In my dissertation, I am exploring infants' and young children's social networks. My research both 1) describes the nature and structure of these networks and 2) explores how aspects of social networks relate to social cognition. Click here to learn more about the method I developed to quantify young children's social networks - the [Social Network Survey](https://nicoleburke.github.io/socialnetworksurvey/). 
 
-1. Infant social networks - what is the nature and structure of infant social relationships? How does the structure of infant social relationships relate to their early social cognition? These projects are apart of my dissertation. Click [here](https://drive.google.com/file/d/1d-Tm8r77QaiSwANCAiHFakeVkAqNQn53/view?usp=sharing) to learn more about my measure and initial results. See my [Github]() for examples of the kinds of data analysis and visulization I use for these projects.   
 
-2. Language experience and social attention - how does early language experience influence adult's and children's attention to communicative contexts? In a collaboration with Jenny Lu, we examine deaf and hearing adult's and children's attention and comprehension of co-speech gesture to understand in what ways early language experience affects social cognition. Click [here](https://drive.google.com/file/d/1oTQo5n0aLHYjWn-XCzM3IlHfJdGK9DmH/view?usp=sharing) to see our initial results. 
+Click [here](https://drive.google.com/file/d/1d-Tm8r77QaiSwANCAiHFakeVkAqNQn53/view) for descriptive data on infant social networks. 
 
-3. Cross-cultural variations - how does the socio-cultural context influence children's social cognition? In collaboration with Dr. Laura Shneidman, we explore 18-month-old US and Yucatec Mayan infants' word learning and naturalistic action environment. 
+Click [here](https://drive.google.com/file/d/1v8o7w9iSLTE1hMXdv8mg3xUopzN0aBKE/view?usp=sharing) to see how aspects of 3-year-olds' social networks relate to perspective-taking. 
+
+Click [here](https://drive.google.com/file/d/1TSt6TddXh6CSCiBUc03Mw7LfjTLBzsUX/view?usp=sharing) to see how children's Social Networks and Neighborhood Demographics relate to each other. 
+
+
+In another line of research, I collaborate with Jenny Lu to look at how langugage experience affects adults' and children's social attention in communicative contexts. We examine deaf and hearing adults' and children's attention and comprehension of co-speech gesture to understand how early language experience affects social cognition. Click [here](https://drive.google.com/file/d/1oTQo5n0aLHYjWn-XCzM3IlHfJdGK9DmH/view?usp=sharing) to see our initial results. 
+
+
 
 
 
