@@ -6,8 +6,10 @@ main:
     url: /socialnetworksurvey/
   #- title: "LinkedIn"
     #url: https://www.linkedin.com/in/nicole-burke/
-  - title: "aoianalysis"
-    url: /aoianalysis/
+  #- title: "aoianalysis"
+    #url: /aoianalysis/
+  - title: "About Me"
+    url: /aboutme/
   - title: "Data Projects"
     url: /dataprojects/
 
