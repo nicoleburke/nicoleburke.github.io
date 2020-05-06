@@ -9,7 +9,7 @@ I am a fifth year PhD student in Developmental Psychology at the University of C
 
 Feel free to contact me at [nicoleburke@uchicago.edu](mailto:nicoleburke@uchicago.edu) or click [here](https://nicoleburke.github.io/research/) to learn more about my research. 
 
-Click here for my [C.V.](https://drive.google.com/file/d/12QbypDq5iRfrmEWWrhrCweWG39XEhM4o/view?usp=sharing)
+Click here for my [C.V.](https://drive.google.com/file/d/1z8bjow7f9r_7X5JtRnVNEtzlvsI0vAzn/view?usp=sharing)
 
 
 ## Background 
