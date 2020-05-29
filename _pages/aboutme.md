@@ -11,14 +11,18 @@ Feel free to contact me at [nicoleburke@uchicago.edu](mailto:nicoleburke@uchicag
 
 Click here for my [C.V.](https://drive.google.com/file/d/1z8bjow7f9r_7X5JtRnVNEtzlvsI0vAzn/view?usp=sharing)
 
+Follow me on [Twitter!](https://twitter.com/nicoleburke0) I tweet about R, Network Science, and my daily struggle with writing. 
+
 
 ## Background 
 
-I graduated with a B.A. in Psychology and Cognitive Science from Northwestern University in 2015 as a first-generation college student. As an undergraduate, I worked with Dr. Amy Booth and Dr. Sandra Waxman at Northwestern and Dr. Frank Keil at Yale University studying word learning, language development, children’s causal reasoning, and adult’s reasoning about explanatory depth.
+I am a first-generation college student and I graduated with a B.A. in Psychology and Cognitive Science from Northwestern University in 2015. 
+
+As an undergraduate, I worked with [Dr. Sandra Waxman](https://childdevelopment.northwestern.edu/) and [Dr. Amy Booth](https://my.vanderbilt.edu/littlelearnerslab/) at Northwestern and [Dr. Frank Keil](https://cogdevlab.yale.edu/) at Yale University studying word learning, language development, children’s causal reasoning, and adult’s reasoning about explanatory depth.
 
 ## Interests beyond science 
 
-Long distance runner, marathoner, R-ladies Chicago
+Long distance runner, marathoner, R-ladies Chicago, [#firstgen](https://twitter.com/search?q=%23firstgen&src=hashtag_click)
 
 
 ![rladies](rladies.jpg) ![run](runchi.png)
