@@ -8,7 +8,7 @@ layout: splash
 In my dissertation, I am exploring infants' and young children's social networks. My research both 1) describes the nature and structure of these networks and 2) explores how aspects of social networks relate to social cognition. Click here to learn more about the method I developed to quantify young children's social networks - the [Social Network Survey](https://nicoleburke.github.io/socialnetworksurvey/). 
 
 
-Click [here](https://drive.google.com/file/d/1JAmZJchsNd2M_y5pZ3hYTFXqP2QcwFoQ/view?usp=sharing) for descriptive data on infant social networks. 
+Click [here](https://my.visme.co/view/y4jn83nj-burke-et-al-icis-poster-2020) for descriptive data on infant social networks. 
 
 Click [here](https://drive.google.com/file/d/1xrplI1QWj8lNBWmHSTwzUnYgT20zIXMF/view?usp=sharing) to see how aspects of 3-year-olds' social networks relate to perspective-taking. 
 
