@@ -5,7 +5,7 @@ layout: single
 ---
 ## About Me
 
-I am a sixth year PhD candidate in Developmental Psychology at the University of Chicago working with [Dr. Amanda Woodward](http://woodwardlab.uchicago.edu/) and [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/). 
+I am a sixth year PhD Candidate in Developmental Psychology at the University of Chicago working with [Dr. Amanda Woodward](http://woodwardlab.uchicago.edu/) and [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/). 
 
 In my dissertation, I am exploring infants' and young children's social networks. I argue that social networks are an excellent method to capture and describe children's early social experience and that we can use a social network framework to generate questions about how early social experience relates to social cognitive development. 
 
