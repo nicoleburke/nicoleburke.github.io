@@ -5,14 +5,14 @@ layout: single
 ---
 ## About Me
 
-I am a fifth year PhD candidate in Developmental Psychology at the University of Chicago working with [Dr. Amanda Woodward](http://woodwardlab.uchicago.edu/) and [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/). 
+I am a sixth year PhD candidate in Developmental Psychology at the University of Chicago working with [Dr. Amanda Woodward](http://woodwardlab.uchicago.edu/) and [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/). 
 
-I am interested in early infant social cognition. In my dissertation, I am exploring infants' and young children's social networks - I describe the nature and structure present in young children's social networks as well as explore how social networks impact early social cognition. I argue that social networks are an excellent tool for characterizing young children's early social experience. 
+In my dissertation, I am exploring infants' and young children's social networks. I argue that social networks are an excellent method to capture and describe children's early social experience and that we can use a social network framework to generate questions about how early social experience relates to social cognitive development. 
 
 Feel free to contact me at [nicoleburke@uchicago.edu](mailto:nicoleburke@uchicago.edu) or click [here](https://nicoleburke.github.io/research/) to learn more about my research. 
 
 
-Follow me on [Twitter!](https://twitter.com/nicoleburke0) I tweet about R, Network Science, and my daily struggle with writing. 
+Follow me on [Twitter!](https://twitter.com/nicoleburke0) I tweet about R, Network Science, current events, and my daily struggle with writing. 
 
 
 ## Background 
