@@ -3,7 +3,7 @@ title: "Social Network Survey page"
 permalink: /socialnetworksurvey/
 layout: splash
 ---
-Testing something. 
+
 
 The **Social Network Survey** is a method I developed to get information about a child's social network. Through parent interview, parents will describe their child's "typical week". The parent interview detrimines the boundaries of the network - which people should be included. The Social Network Survey then collects demographic information to assess various aspects of children's network; the Linguistic Diversity, Racial Diversity, Age Diversity, Proportion of Kin relationshps, and how relationships cluster together. These metrics can be used to characterize children's early social experience. 
 
