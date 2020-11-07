@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About Me"
+    url: /aboutme/
   - title: "Research Interests"
     url: /research/
   - title: "Social Network Survey"
@@ -8,8 +10,6 @@ main:
     #url: https://www.linkedin.com/in/nicole-burke/
   #- title: "aoianalysis"
     #url: /aoianalysis/
-  - title: "About Me"
-    url: /aboutme/
   - title: "Data Projects"
     url: /dataprojects/
 
