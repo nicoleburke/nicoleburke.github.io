@@ -18,6 +18,10 @@ devtools::install_github("nicoleburke/aoianalysis")
 
 library(aoianalysis)
 
+## How to cite
+
+Burke, N. (2019). aoianalysis: functions for AOI analysis. R package version 0.1.0. https://nicoleburke.github.io/aoianalysis/
+
 ## Data set-up
 
 Although Tobii has some other lovely features, the most frustrating (to me personally) is that every time you draw a new AOI, it creates a new column in the raw data that contains -1, 0, or 1 to indicate if there was a hit to that AOI (1), no hit to the AOI (0), or if the AOI was not activated (-1). While this sounds clean and simple to have each AOI have a different column, it creates A LOT of columns to sort through in the raw data. For example, within one list let's say you have 8 trials and 2 AOIs per trial. For that list alone, that creates 16 columns that have different names to sort through and that's just one list! Godforbid you are counterbalancing across different lists, this creates a MANY columns to go through.
