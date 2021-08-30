@@ -17,7 +17,7 @@ Follow me on [Twitter!](https://twitter.com/nicoleburke0) I tweet about R, Netwo
 
 I am a first-generation college student and I graduated with a B.A. in Psychology and Cognitive Science from Northwestern University in 2015. As an undergraduate, I worked with [Dr. Sandra Waxman](https://childdevelopment.northwestern.edu/) and [Dr. Amy Booth](https://my.vanderbilt.edu/littlelearnerslab/) at Northwestern and [Dr. Frank Keil](https://cogdevlab.yale.edu/) at Yale University studying word learning, language development, children’s causal reasoning, and adult’s reasoning about explanatory depth.
 
-I graudated with my PhD in Developmental Psychoogy from the University of Chicago in 2021. My dissertation committee was [Dr. Amanda Woodward](https://voices.uchicago.edu/woodwardlab/amanda-woodward/) (chair), [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/), and [Dr. Alex Shaw](https://sites.google.com/site/alexshawyale/). 
+I graudated with my PhD in Developmental Psychology from the University of Chicago in 2021. My dissertation committee was [Dr. Amanda Woodward](https://voices.uchicago.edu/woodwardlab/amanda-woodward/) (chair), [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/), and [Dr. Alex Shaw](https://sites.google.com/site/alexshawyale/). 
 
 ## Interests beyond science 
 
