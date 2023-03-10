@@ -5,17 +5,38 @@ layout: splash
 ---
 ## Research Interests
 
-In my dissertation, I am exploring infants' and young children's social networks. My research both 1) describes the nature and structure of these networks and 2) explores how aspects of social networks relate to social cognition. Click here to learn more about the method I developed to quantify young children's social networks - the [Social Network Survey](https://nicoleburke.github.io/socialnetworksurvey/). 
+In my research program, I use social networks as a method and framework to explore how variations in children's early social environments relate to their cognition and behavior. I argue that social networks are a novel, innovative way to capture and describe children's enviornments and that developmental psychologists can use a network perspective to generate questions about how aspects of social networks relate to cognition and development. Click here to learn more about the method I developed to quantify young children's social networks - the [Social Network Survey](https://nicoleburke.github.io/socialnetworksurvey/). 
 
+### Publications
 
-Click [here](https://my.visme.co/view/y4jn83nj-burke-et-al-icis-poster-2020) for descriptive data on infant social networks. 
+Burke, N., Brezack, N., & Woodward, A. (2022). Children’s social networks in developmental 
+psychology: A network approach to capture and describe early social environments. Frontiers in Psychology, 13:1009422. doi:10.3389/fpsyg.2022.1009422 [paper] (https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1009422/full) [OSF](https://osf.io/3hc7n/)
 
-Click [here](https://drive.google.com/file/d/1xrplI1QWj8lNBWmHSTwzUnYgT20zIXMF/view?usp=sharing) to see how aspects of 3-year-olds' social networks relate to perspective-taking. 
+#### Manuscripts Under Review and In Preparation 
 
-Click [here](https://drive.google.com/file/d/1WX4rxWoAmMkOjXqueEFZurq-pGNtqG12/view?usp=sharing) to see how children's Social Networks and Neighborhood Demographics relate to each other. 
+Burke, N., Rizzo, M.T., Britton, T., & Rhodes, M. (submitted). Does racial diversity affect 
+White children’s explanations for racial inequalities? Depends on where they live and how their social world is structured. [preprint] (https://psyarxiv.com/x7zak)
 
+Burke, N., Brezack, N., Meyer, M., & Woodward, A. (under review). Children’s social network 
+size is related to their perspective taking skills. [pre-registration] (https://aspredicted.org/blind.php?x=xx2wz8)
 
-In another line of research, I collaborate with Jenny Lu to look at how langugage experience affects adults' and children's social attention in communicative contexts. We examine deaf and hearing adults' and children's attention and comprehension of co-speech gesture to understand how early language experience affects social cognition. Click [here](https://drive.google.com/file/d/1oTQo5n0aLHYjWn-XCzM3IlHfJdGK9DmH/view?usp=sharing) to see our initial results. 
+Arnold, S., Burke, N., Leshin, R., & Rhodes., M. (under review). Infants’ visual attention to 
+own- and other-race faces is moderated by experience with people of different races in 
+their daily lives. [preprint] (https://psyarxiv.com/rznmu/)
+
+Okocha, A., Burke, N., & Lew-Williams, C. (under review). Infants and toddlers in the United 
+States with more close relationships have larger vocabularies. 
+
+Colomer, M., Hwang., H.G., Burke, N., & Woodward A. (submitted). Development of infants’ 
+preferential looking toward native-language speakers across static and dynamic events. 
+[pre-registration] (https://osf.io/8mqkr?view_only=ab71229ea6e044bd99d00806d0064ae9) 
+
+Burke, N., Keating, V., Hwang, H.G., & Woodward, A. (data collection complete). Preschooler 
+social networks and their effects on racial bias. [pre-registration] (https://aspredicted.org/blind.php?x=r3jz6f) 
+
+Burke, N., Rooney, A., Rizzo, M.T., & Rhodes, M. (data collection complete). Network size is 
+related to preschoolers’ theory of mind. [pre-registration] (https://osf.io/mcbe7/?view_only=019b1606d2e447e1a43355c05e475eed)
+ 
 
 
 
