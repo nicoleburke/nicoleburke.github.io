@@ -15,9 +15,7 @@ Follow me on [Twitter!](https://twitter.com/nicoleburke0) I tweet about R, Netwo
 
 ## Background 
 
-I graduated with a B.A. in Psychology and Cognitive Science from Northwestern University in 2015. As an undergraduate, I worked with [Dr. Sandra Waxman](https://childdevelopment.northwestern.edu/) and [Dr. Amy Booth](https://my.vanderbilt.edu/littlelearnerslab/) at Northwestern and [Dr. Frank Keil](https://cogdevlab.yale.edu/) at Yale University studying word learning, language development, children’s causal reasoning, and adult’s reasoning about explanatory depth.
-
-I graudated with my PhD in Developmental Psychology from the University of Chicago in 2021. My dissertation committee was [Dr. Amanda Woodward](https://voices.uchicago.edu/woodwardlab/amanda-woodward/) (chair), [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/), and [Dr. Alex Shaw](https://sites.google.com/site/alexshawyale/). 
+I graduated with a B.A. in Psychology and Cognitive Science from Northwestern University in 2015. As an undergraduate, I worked with [Dr. Sandra Waxman](https://childdevelopment.northwestern.edu/) and [Dr. Amy Booth](https://my.vanderbilt.edu/littlelearnerslab/), and [Dr. Frank Keil](https://cogdevlab.yale.edu/) at Yale University studying word learning, language development, children’s causal reasoning, and adult’s reasoning about explanatory depth. I graudated with my PhD in Developmental Psychology from the University of Chicago in 2021. My dissertation committee was [Dr. Amanda Woodward](https://voices.uchicago.edu/woodwardlab/amanda-woodward/) (chair), [Dr. Susan Goldin-Meadow](https://voices.uchicago.edu/goldinmeadowlab/), and [Dr. Alex Shaw](https://sites.google.com/site/alexshawyale/). 
 
 I am a first-generation college student, which means my parents do not have a bachelor's degree. I have served as a formal and informal mentor to fellow first-generation students throughout graduate school and in my postdoctoral training. Advocating for first-generation students is an important part of my research, mentoring, and pedagogy. 
 
@@ -26,4 +24,4 @@ I am a first-generation college student, which means my parents do not have a ba
 Long distance runner, marathoner, R-ladies Chicago, [#firstgen](https://twitter.com/search?q=%23firstgen&src=hashtag_click), rescue dog mom 
 
 
-![rladies](rladies.jpg) ![run](runchi.png) ![run2](run_nyc.jpeg) ![mckenna](mckenna.HEIC)
+![rladies](rladies.jpg) ![run](runchi.png) ![mckenna](mckenna.HEIC)
