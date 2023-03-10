@@ -24,4 +24,4 @@ I am a first-generation college student, which means my parents do not have a ba
 Long distance runner, marathoner, R-ladies Chicago, [#firstgen](https://twitter.com/search?q=%23firstgen&src=hashtag_click), rescue dog mom 
 
 
-![rladies](rladies.jpg) ![run](runchi.png) ![mckenna](mckenna.HEIC)
+![rladies](rladies.jpg) ![run](runchi.png) ![mckenna](mckenna_jpg.jpg)
