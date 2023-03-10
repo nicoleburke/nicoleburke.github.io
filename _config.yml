@@ -105,29 +105,29 @@ analytics:
 author:
   name             : "Nicole Burke"
   avatar           : /assets/images/nicoleburke_glasses.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate Developmental Psychology"
+  bio              : "Postdoctoral Associate"
   #location         : "University of Chicago"
   #email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: nicoleburke@uchicago.edu
+      url: nburke@nyu.edu
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/nicoleburke0
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/nicoleburke
-    - label: "Woodward Lab"
+    - label: "Conceptual Development and Social Cognition Lab"
       icon: "fa fa-cube"
-      url: https://voices.uchicago.edu/woodwardlab/
+      url: http://kidconcepts.org/about
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nicoleburke@uchicago.edu
+      url: mailto:nburke@nyu.edu
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/nicoleburke0
