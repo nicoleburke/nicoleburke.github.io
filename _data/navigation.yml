@@ -4,12 +4,12 @@ main:
     url: /aboutme/
   - title: "Research Interests"
     url: /research/
-  - title: "Social Network Survey"
-    url: /socialnetworksurvey/
+  #- title: "Social Network Survey"
+    #url: /socialnetworksurvey/
   #- title: "LinkedIn"
     #url: https://www.linkedin.com/in/nicole-burke/
   #- title: "aoianalysis"
     #url: /aoianalysis/
-  - title: "Data Projects"
-    url: /dataprojects/
+  #- title: "Data Projects"
+    #url: /dataprojects/
 
