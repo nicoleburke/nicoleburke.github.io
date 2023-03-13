@@ -14,7 +14,7 @@ psychology: A network approach to capture and describe early social environments
 
 ### Manuscripts Under Review and In Preparation 
 
-**Burke, N.**, Rizzo, M.T., Britton, T., & Rhodes, M. (submitted). Does racial diversity affect 
+**Burke, N.**, Rizzo, M.T., Britton, T., & Rhodes, M. (under review). Does racial diversity affect 
 White children’s explanations for racial inequalities? Depends on where they live and how their social world is structured. [[preprint](https://psyarxiv.com/x7zak)]
 
 **Burke, N.**, Brezack, N., Meyer, M., & Woodward, A. (under review). Children’s social network 
