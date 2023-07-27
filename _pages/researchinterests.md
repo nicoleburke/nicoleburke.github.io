@@ -13,7 +13,7 @@ In my research program, I use social networks as a method and framework to explo
 
 Arnold, S., **Burke, N.**, Leshin, R., & Rhodes., M. (in press). Infants’ visual attention 
 to own- and other-race faces is moderated by experience with people of different races in 
-their daily lives. Journal of Experimental Psychology: General.[[paper](https://psyarxiv.com/rznmu/)
+their daily lives. Journal of Experimental Psychology: General. [[paper]](https://psyarxiv.com/rznmu/)
 
 **Burke, N.**, Brezack, N., & Woodward, A. (2022). Children’s social networks in developmental 
 psychology: A network approach to capture and describe early social environments. Frontiers in Psychology, 13:1009422. doi:10.3389/fpsyg.2022.1009422 [[paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1009422/full)] [[OSF](https://osf.io/3hc7n/)]
