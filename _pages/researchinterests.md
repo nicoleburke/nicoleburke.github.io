@@ -9,7 +9,7 @@ In my research program, I use social networks as a method and framework to explo
 
 ### Publications
 
-**Burke N.**, Brezack, N., Meyer, M., & Woodward, A., (2023). Children’s social network size is related to their perspective-taking skills. Frontiers in Developmental Psychology. 1:1221056. doi: 10.3389/fdpys.2023.1221056 [[paper](https://www.frontiersin.org/articles/10.3389/fdpys.2023.1221056/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE)
+**Burke N.**, Brezack, N., Meyer, M., & Woodward, A., (2023). Children’s social network size is related to their perspective-taking skills. Frontiers in Developmental Psychology. 1:1221056. doi: 10.3389/fdpys.2023.1221056 [[paper]](https://www.frontiersin.org/articles/10.3389/fdpys.2023.1221056/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE)
 
 Arnold, S., **Burke, N.**, Leshin, R., & Rhodes., M. (in press). Infants’ visual attention 
 to own- and other-race faces is moderated by experience with people of different races in 
