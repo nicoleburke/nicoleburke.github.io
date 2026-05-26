@@ -1,45 +1,45 @@
+---
 title: "Nicole Burke, PhD"
-author_profile: false
+author_profile: true
 layout: splash
-
 header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/networkpic_homepage3.png
   actions:
     - label: "CV"
       url: https://drive.google.com/file/d/10wlSwcQul16YWLzyK2BIVoMc7Sb8Mb_e/view?usp=sharing
-
-excerpt: "Behavioral Scientist who uses AI and network science to build things that matter for people at work."
-
-intro:
+excerpt: "I use social networks as a method and framework to describe young children's early social environments and generate hypotheses about how early social environments impact social cognitive development."
+intro: 
   - excerpt: ''
-
 feature_row:
-  - image_path: /assets/images/burke_headshot.jpg
-    alt: "About Me"
+  - image_path: assets/images/nicoleburke_glasses.png
+    alt: "placeholder image 1"
+    excerpt: "I am a postdoctoral associate at New York University. In my doctoral work, I developed The Child Social Network Questionnaire, which is a method that can be used to capture infants' and children's social networks. In my research I use social networks as a method to capture early social expeirence and as well as a theorectical framework to generate hypotheses about how early social enviornments relate to social cognition."
     title: "About Me"
-    excerpt: "Research scientist, engineer, and builder."
     url: /aboutme/
     btn_label: "Learn More"
     btn_class: "btn--success"
-
+feature_row2:
   - image_path: /assets/images/socialnetwork2.png
-    alt: "Research"
-    title: "Research Projects"
-    excerpt: "Network analysis, social cognition, and behavioral science."
+    alt: "placeholder image 2"
+    title: "Research Interests"
+    excerpt: "infant social networks, social cognition, early langauge experience"
     url: /research/
-    btn_label: "View Research"
+    btn_label: "Read More"
     btn_class: "btn--success"
-
+feature_row3:
   - image_path: /assets/images/networkpic_forhomepage.png
-    alt: "CV"
     title: "CV"
-    excerpt: "View my academic and industry experience."
+    excerpt: "Click here to see my full CV."
     url: https://drive.google.com/file/d/1ZJC1eWkb448DIprVTZNJA2qzeoIGzBEW/view?usp=sharing
-    btn_label: "Open CV"
+    btn_label: "CV"
     btn_class: "btn--success"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
