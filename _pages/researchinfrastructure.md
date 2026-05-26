@@ -1,8 +1,14 @@
 ---
 title: ""
 permalink: /researchinfrastructure/
-layout: single
+layout: splash
 ---
 ## Research Infrastructure
 
-Coming soon! 
+1. SQL database NYU
+
+2. CMI QC pipeline 
+
+3. pygame software 
+
+4. R packages 
