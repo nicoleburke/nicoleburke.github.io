@@ -2,6 +2,7 @@
 title: "Research Projects"
 permalink: /research/
 layout: single
+author_profile: false 
 ---
 ## Research Projects 
 
