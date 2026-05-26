@@ -101,26 +101,26 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
-author:
-  name             : "Nicole Burke"
-  avatar           : /assets/images/burke_headshot.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist"
-  #location         : "University of Chicago"
-  #email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: nicole.burke@childmind.org
-    #- label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      #url: https://twitter.com/nicoleburke0
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/nicoleburke
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/nicole-burke/
+# # Site Author
+# author:
+#   name             : "Nicole Burke"
+#   avatar           : /assets/images/burke_headshot.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : "Research Scientist"
+#   #location         : "University of Chicago"
+#   #email            :
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: nicole.burke@childmind.org
+#     #- label: "Twitter"
+#       #icon: "fab fa-fw fa-twitter-square"
+#       #url: https://twitter.com/nicoleburke0
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: https://github.com/nicoleburke
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: https://www.linkedin.com/in/nicole-burke/
 
 # Site Footer
 footer:
