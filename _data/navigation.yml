@@ -2,12 +2,12 @@
 main:
   - title: "About Me"
     url: /aboutme/
-  - title: "Research Interests"
+  - title: "Research Projects"
     url: /research/
-  #- title: "Social Network Survey"
-    #url: /socialnetworksurvey/
-  #- title: "LinkedIn"
-    #url: https://www.linkedin.com/in/nicole-burke/
+  - title: "AI Projects"
+    url: /aiprojects/
+  - title: "Research Infrastructure"
+    url: /researchinfrastructure/
   #- title: "aoianalysis"
     #url: /aoianalysis/
   #- title: "Data Projects"
