@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /aiprojects/
-layout: single
+layout: splash
 ---
 ## AI Projects
 
