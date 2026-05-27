@@ -5,7 +5,7 @@ layout: splash
 ---
 ## AI Projects
 
-### Built NLP Classification Pipeline using chatGPT
+<!-- ### Built NLP Classification Pipeline using chatGPT
 <div class="project-card">
 
 <p><strong>Tools:</strong> Python · NLP · ChatGPT API<br>
@@ -22,6 +22,58 @@ Can large language models reliably classify nuanced human language at scale?
 <p>
 Built an end-to-end NLP classification pipeline using the ChatGPT API.
 </p>
+
+</div> -->
+
+<div class="project-card featured-project">
+
+  <div class="project-badge">
+    ⭐ Featured Project
+  </div>
+
+  <h3 class="project-title">
+    Built NLP Classification Pipeline Using ChatGPT
+  </h3>
+
+  <p class="project-summary">
+    Developed an end-to-end NLP classification pipeline using the ChatGPT API
+    to classify nuanced human language at scale, reducing manual review time
+    while maintaining strong classification accuracy.
+  </p>
+
+  <div class="project-tags">
+    <span>Python</span>
+    <span>NLP</span>
+    <span>ChatGPT API</span>
+    <span>LLMs</span>
+    <span>People Analytics</span>
+  </div>
+
+  <div class="project-details">
+
+    <div class="detail-row">
+      <div class="detail-label">Question</div>
+      <div class="detail-value">
+        Can large language models reliably classify nuanced human language at scale?
+      </div>
+    </div>
+
+    <div class="detail-row">
+      <div class="detail-label">Approach</div>
+      <div class="detail-value">
+        Built a production-style NLP workflow leveraging the ChatGPT API for
+        automated text classification and evaluated performance against labeled examples.
+      </div>
+    </div>
+
+    <div class="detail-row">
+      <div class="detail-label">Impact</div>
+      <div class="detail-value">
+        Achieved 77% classification accuracy and reduced processing time by 50%.
+      </div>
+    </div>
+
+  </div>
 
 </div>
 
