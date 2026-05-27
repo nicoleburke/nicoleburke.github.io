@@ -7,8 +7,8 @@ layout: splash
 <!-- NYU NLP PROJECT -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-badge">🗣️ NLP</div>
     <div class="card-badge">🔬 Professional Work</div>
+    <div class="card-badge">🗣️ NLP</div>
     <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
     
     <div class="card-body">
@@ -16,9 +16,9 @@ layout: splash
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">ChatGPT API</span>
-      <span class="tag tag-teal">R</span>
+      <span class="tag tag-blue">R</span>
       <span class="tag tag-teal">NLP</span>
+      <span class="tag tag-teal">chatGPT API</span>
       <span class="tag tag-slate">Data Pipelines</span>
     </div>
   </div>
@@ -42,8 +42,8 @@ layout: splash
 <!-- SIDE PROJECT SENTIMENT ANALYSIS -->
 <div class="project-card featured">
   <div class="card-main">
+    <div class="card-badge">💡 Side Project</div>
     <div class="card-badge">🗣️ NLP</div>
-        <div class="card-badge">💡 Side Project</div>
     <div class="card-title">Side Project: Sentiment Analysis on open-ended employee survey responses</div>
     
     <div class="card-body">
@@ -51,8 +51,8 @@ layout: splash
     </div>
     
     <div class="card-meta">
+      <span class="tag tag-blue">Python</span>
       <span class="tag tag-teal">Open Source LLMs</span>
-      <span class="tag tag-teal">Python</span>
       <span class="tag tag-teal">NLP</span>
       <span class="tag tag-slate">Data Pipelines</span>
     </div>
@@ -77,8 +77,8 @@ layout: splash
 <!-- Side Project: Automated Voice-Part Playlist Builder (built by AI) -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-badge">🎶 AI Prototype</div>
     <div class="card-badge">💡 Side Project</div>
+    <div class="card-badge">🤖 AI Prototype</div>
     <div class="card-title">Side Project: Automated Voice-Part Playlist Builder (built by AI)</div>
     
     <div class="card-body">
@@ -86,8 +86,8 @@ layout: splash
     </div>
     
     <div class="card-meta">
+      <span class="tag tag-blue">R Shiny App</span>
       <span class="tag tag-teal">AI Prototype</span>
-      <span class="tag tag-teal">R Shiny App</span>
       <span class="tag tag-teal">Engineering</span>
     </div>
   </div>
@@ -111,17 +111,17 @@ layout: splash
 <!-- Contract Work: AI Evaluation Dataset Question Developer -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-badge">🎶 AI Prototype</div>
+    <div class="card-badge">🤖 AI Evluation Dataset Creator</div>
     <div class="card-badge">🤝 Contract Work</div>
-    <div class="card-title">Contract Work: Automated Voice-Part Playlist Builder (built by AI)</div>
+    <div class="card-title">AI Evaluation Dataset Question Developer</div>
     
     <div class="card-body">
-      I am in a choir and we receive our practice tracks as individual .mp4 files on a shared Google Drive folder. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the chior. This will make it easier for members to practice and we can track choir member usage via the app. 
+      Designed a multiple-choice evaluation dataset for an AI company to test language model understanding of cognitive development concepts, achieving clear differentiation of model failures (i.e., ~20% accuracy) as measured by performance on conceptually discriminative questions, by creating 20-25 expert-level items with carefully constructed distractor answers that targeted common conceptual confusions rather than factual recall. 
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">AI Prototype</span>
-      <span class="tag tag-teal">R Shiny App</span>
+      <span class="tag tag-teal">AI Evaluation Dataset</span>
+      <span class="tag tag-teal">Prompt Engineering</span>
       <span class="tag tag-teal">Engineering</span>
     </div>
   </div>
@@ -129,44 +129,15 @@ layout: splash
   <div class="card-detail">
     <div class="detail-row">
       <span class="detail-label">The Question</span>
-      <span class="detail-value">How can you make large collections of distributed media files actually usable for non-technical people — without asking them to manually download, organize, and manage dozens of individual files?</span>
+      <span class="detail-value">Can a language model truly *understand* cognitive development concepts — or is it pattern-matching on surface-level cues? I was brought in to design an evaluation dataset that could tell the difference.</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">What I Did</span>
-      <span class="detail-value">Used Claude to generate app to make prototype for choir director. The entire project took ~30mins. The prototype allowed me to share a working model to receive feedback.</span>
+      <span class="detail-value">Designed 20–25 expert-level multiple-choice items grounded in developmental psychology, with adversarial distractor answers constructed to exploit common conceptual confusions — not factual gaps. Each question was designed to distinguish true understanding from surface-level pattern matching.</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal">The tool makes it easier for choir members to practice. We saw an increase in practice through self-reported measures, which we could validate by tracking the useage of the application.</span>
+      <span class="detail-value highlight-teal">Consistent model failure on non-obvious conceptual distinctions confirmed the dataset had high diagnostic value. The items successfully differentiated models that understood the *structure* of developmental concepts from those recombining familiar terms.</span>
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-### AI Evaluation Dataset Question Developer  
-
-##### The question
-
-Can a language model truly *understand* cognitive development concepts — or is it pattern-matching on surface-level cues? I was brought in to design an evaluation dataset that could tell the difference.
-
-#####  Why it was hard
-
-Most evaluation datasets test factual recall. A model can score well by memorizing associations without any real conceptual understanding. Building a diagnostically useful benchmark requires the opposite: questions where a model that "knows the facts" still fails, because the distractors target the exact conceptual confusions a non-understanding system would make.
-
-#####  What I did
-
-Designed 20–25 expert-level multiple-choice items grounded in developmental psychology, with adversarial distractor answers constructed to exploit common conceptual confusions — not factual gaps. Each question was designed to distinguish true understanding from surface-level pattern matching.
-
-The target accuracy for a non-understanding model was ~20% — roughly chance — which served as the benchmark signal that the questions were diagnostically valid.
-
-#####  What it showed
-
-Consistent model failure on non-obvious conceptual distinctions confirmed the dataset had high diagnostic value. The items successfully differentiated models that understood the *structure* of developmental concepts from those recombining familiar terms.
