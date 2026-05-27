@@ -8,8 +8,7 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
-    <div class="card-badge">🔬 Professional Work</div>
-    <div class="card-badge">🗣️ NLP</div>
+    <div class="card-badge">🔬 Professional Work</div> <div class="card-badge">🗣️ NLP</div>
     
     <div class="card-body">
       Reduced manual text processing time by <strong>50% (4 to 2 months)</strong> by building an <strong>NLP classification pipeline</strong> using the <strong>ChatGPT API</strong>, achieving 77% model accuracy on a language classification task. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
