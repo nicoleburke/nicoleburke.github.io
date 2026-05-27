@@ -1,46 +1,478 @@
 ---
-title: "Nicole Burke, PhD"
-author_profile: true
+title: "Nicole Burke, Ph.D."
+author_profile: false
 layout: splash
 
 header:
-  overlay_filter: "0.5"
+  overlay_filter: 0.58
   overlay_image: /assets/images/networkpic_homepage3.png
   actions:
-    - label: "CV"
-      url: https://drive.google.com/file/d/10wlSwcQul16YWLzyK2BIVoMc7Sb8Mb_e/view?usp=sharing
+    - label: "View CV"
+      url: "https://drive.google.com/file/d/10wlSwcQul16YWLzyK2BIVoMc7Sb8Mb_e/view?usp=sharing"
+    - label: "LinkedIn →"
+      url: "https://linkedin.com/in/nicole-burke"
 
-excerpt: "I use social networks as a method and framework to describe young children's early social environments and generate hypotheses about how early social environments impact social cognitive development."
-
-intro:
-  - excerpt: ''
-
-feature_row:
-  - image_path: /assets/images/nicoleburke_glasses.png
-    alt: "Nicole Burke portrait"
-    title: "About"
-    excerpt: "Behavioral scientist studying social networks, early experience, and social cognition."
-    url: /aboutme/
-    btn_label: "About Me"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/socialnetwork2.png
-    alt: "Research visualization"
-    title: "Research"
-    excerpt: "Research on infant social networks, language exposure, and cognitive development."
-    url: /research/
-    btn_label: "Research"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/networkpic_forhomepage.png
-    alt: "Curriculum vitae"
-    title: "CV"
-    excerpt: "Publications, presentations, grants, and academic experience."
-    url: https://drive.google.com/file/d/1ZJC1eWkb448DIprVTZNJA2qzeoIGzBEW/view?usp=sharing
-    btn_label: "View CV"
-    btn_class: "btn--primary"
+excerpt: "Behavioral scientist with a Ph.D. in Psychology and 10+ years of experience studying how people think, connect, and change. I build AI tools and data infrastructure when the right solution doesn't exist yet."
 ---
 
-{% include feature_row id="intro" type="center" %}
+<div class="home-wrapper">
 
-{% include feature_row %}
+<!-- AI PROJECTS -->
+<div class="nb-section">
+  <div class="nb-section-header">
+    <span class="nb-label">AI Projects</span>
+    <h2>Building with AI, grounded in people.</h2>
+    <p>I don't just use AI tools — I build with them. These projects span LLM pipelines, rapid prototyping, and evaluation design. Each one started with a concrete research problem.</p>
+  </div>
+
+  <div class="nb-grid nb-grid--3">
+
+    <div class="nb-card nb-card--featured">
+      <div class="nb-card-art">
+        <svg viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="160" fill="#1a2a3a"/>
+          <rect x="20" y="24" width="180" height="22" rx="11" fill="#2d4a6a"/>
+          <rect x="20" y="54" width="140" height="22" rx="11" fill="#2d4a6a"/>
+          <rect x="20" y="84" width="160" height="22" rx="11" fill="#2d4a6a"/>
+          <rect x="220" y="30" width="12" height="60" rx="2" fill="#3a6a4a" opacity="0.4"/>
+          <rect x="237" y="44" width="12" height="46" rx="2" fill="#c8a84b" opacity="0.5"/>
+          <rect x="254" y="20" width="12" height="70" rx="2" fill="#c8a84b"/>
+          <text x="20" y="130" font-family="monospace" font-size="9" fill="#7a96aa" letter-spacing="1">LLM · PEOPLE ANALYTICS · OPEN SOURCE</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">Side Project · Featured</span>
+        <h3>Open-Source LLM for Employee Sentiment</h3>
+        <p>Built an open-source tool using a large language model to perform sentiment analysis on open-ended employee survey responses — surfacing themes at scale without losing the nuance that makes the data meaningful. Designed for People Analytics teams.</p>
+        <div class="nb-tags">
+          <span class="nb-tag nb-tag--gold">LLM</span>
+          <span class="nb-tag nb-tag--gold">People Analytics</span>
+          <span class="nb-tag">Python</span>
+          <span class="nb-tag">NLP</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="nb-card">
+      <div class="nb-card-art">
+        <svg viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="160" fill="#1a2a3a"/>
+          <defs>
+            <marker id="arr1" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+              <path d="M0,0 L6,3 L0,6 Z" fill="#c8a84b"/>
+            </marker>
+          </defs>
+          <rect x="18" y="55" width="52" height="30" rx="3" fill="#2d4a6a"/>
+          <text x="44" y="74" font-family="monospace" font-size="8" fill="#7ab" text-anchor="middle">RAW</text>
+          <line x1="70" y1="70" x2="88" y2="70" stroke="#c8a84b" stroke-width="1.5" marker-end="url(#arr1)"/>
+          <rect x="90" y="55" width="52" height="30" rx="3" fill="#2d4a6a"/>
+          <text x="116" y="74" font-family="monospace" font-size="8" fill="#7ab" text-anchor="middle">NLP</text>
+          <line x1="142" y1="70" x2="160" y2="70" stroke="#c8a84b" stroke-width="1.5" marker-end="url(#arr1)"/>
+          <rect x="162" y="55" width="60" height="30" rx="3" fill="#c8a84b" opacity="0.85"/>
+          <text x="192" y="74" font-family="monospace" font-size="8" fill="#1a2a3a" text-anchor="middle">OUTPUT</text>
+          <circle cx="248" cy="50" r="22" fill="#1e3a2a" stroke="#3a7a4a" stroke-width="1"/>
+          <text x="248" y="46" font-family="monospace" font-size="9" fill="#5ab86a" text-anchor="middle">77%</text>
+          <text x="248" y="58" font-family="monospace" font-size="7" fill="#5ab86a" text-anchor="middle">acc.</text>
+          <text x="20" y="130" font-family="monospace" font-size="9" fill="#7a96aa" letter-spacing="1">CHATGPT API · PYTHON · NYU 2022-23</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">NYU · 2022–2023</span>
+        <h3>NLP Text Classification Pipeline</h3>
+        <p>Built an end-to-end NLP pipeline using the ChatGPT API to classify language in a large behavioral dataset. Reduced manual processing time by 50% — from 4 months to 2 — achieving 77% accuracy on a nuanced classification task.</p>
+        <div class="nb-tags">
+          <span class="nb-tag nb-tag--gold">NLP</span>
+          <span class="nb-tag">Python</span>
+          <span class="nb-tag">ChatGPT API</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="nb-card">
+      <div class="nb-card-art">
+        <svg viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="160" fill="#1a2a3a"/>
+          <circle cx="100" cy="75" r="44" fill="#1e3045" stroke="#2d4a6a" stroke-width="1.5"/>
+          <circle cx="100" cy="75" r="3" fill="#c8a84b"/>
+          <line x1="100" y1="75" x2="100" y2="38" stroke="#c8a84b" stroke-width="2" stroke-linecap="round"/>
+          <line x1="100" y1="75" x2="122" y2="89" stroke="#7ab" stroke-width="1.5" stroke-linecap="round"/>
+          <rect x="168" y="44" width="90" height="60" rx="4" fill="#1e3045" stroke="#2d4a6a" stroke-width="1"/>
+          <rect x="176" y="52" width="74" height="8" rx="2" fill="#2d5a8a"/>
+          <rect x="176" y="65" width="50" height="5" rx="1" fill="#2d4a6a"/>
+          <rect x="176" y="74" width="60" height="5" rx="1" fill="#2d4a6a"/>
+          <rect x="176" y="83" width="40" height="5" rx="1" fill="#2d4a6a"/>
+          <text x="20" y="130" font-family="monospace" font-size="9" fill="#7a96aa" letter-spacing="1">R · SHINY · CLAUDE · 25 MIN</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">Rapid Prototype</span>
+        <h3>R Shiny App in 25 Minutes</h3>
+        <p>Used Claude as a coding collaborator to scope, build, and ship a functional R Shiny app in under 25 minutes — demonstrating rapid prototyping without dedicated engineering support and delivering something immediately usable.</p>
+        <div class="nb-tags">
+          <span class="nb-tag nb-tag--gold">Rapid Prototyping</span>
+          <span class="nb-tag">R · Shiny</span>
+          <span class="nb-tag">Claude API</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- RESEARCH PROJECTS -->
+<div class="nb-section nb-section--alt">
+  <div class="nb-section-header">
+    <span class="nb-label">Research Projects</span>
+    <h2>Behavioral science with quantitative teeth.</h2>
+    <p>A decade of research using experimental, survey, and longitudinal methods to understand how people think, connect, and change — in the lab and at scale.</p>
+  </div>
+
+  <div class="nb-grid nb-grid--3">
+
+    <div class="nb-card">
+      <div class="nb-card-art">
+        <svg viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="160" fill="#1a2a3a"/>
+          <circle cx="140" cy="70" r="10" fill="#c8a84b"/>
+          <circle cx="90"  cy="45" r="7"  fill="#4a7a9b"/>
+          <circle cx="185" cy="45" r="7"  fill="#6a4a9b"/>
+          <circle cx="70"  cy="95" r="7"  fill="#6a4a9b"/>
+          <circle cx="200" cy="90" r="7"  fill="#4a7a9b"/>
+          <circle cx="115" cy="105" r="6" fill="#4a9b6a"/>
+          <circle cx="165" cy="108" r="6" fill="#9b4a4a"/>
+          <line x1="140" y1="70" x2="90"  y2="45"  stroke="#fff" stroke-width="1" opacity="0.15"/>
+          <line x1="140" y1="70" x2="185" y2="45"  stroke="#fff" stroke-width="1" opacity="0.15"/>
+          <line x1="140" y1="70" x2="70"  y2="95"  stroke="#fff" stroke-width="1" opacity="0.15"/>
+          <line x1="140" y1="70" x2="200" y2="90"  stroke="#fff" stroke-width="1" opacity="0.15"/>
+          <line x1="140" y1="70" x2="115" y2="105" stroke="#c8a84b" stroke-width="1" opacity="0.5"/>
+          <line x1="140" y1="70" x2="165" y2="108" stroke="#c8a84b" stroke-width="1" opacity="0.5"/>
+          <line x1="90"  y1="45" x2="70"  y2="95"  stroke="#fff" stroke-width="1" opacity="0.1"/>
+          <line x1="185" y1="45" x2="200" y2="90"  stroke="#fff" stroke-width="1" opacity="0.1"/>
+          <text x="20" y="130" font-family="monospace" font-size="9" fill="#7a96aa" letter-spacing="1">LONGITUDINAL · 1,000+ PARTICIPANTS</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">UChicago + NYU · Longitudinal</span>
+        <h3>Network Diversity &amp; Racial Bias</h3>
+        <p>Does the diversity of your social network reduce implicit racial bias? A multi-wave longitudinal study combining behavioral experiments and survey methods to estimate causal environmental effects on bias across 1,000+ participants.</p>
+        <div class="nb-tags">
+          <span class="nb-tag nb-tag--gold">Social Network Analysis</span>
+          <span class="nb-tag">Causal Inference</span>
+          <span class="nb-tag">HLM</span>
+        </div>
+        <a href="/research/" class="nb-link">View project →</a>
+      </div>
+    </div>
+
+    <div class="nb-card">
+      <div class="nb-card-art">
+        <svg viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="160" fill="#1a2a3a"/>
+          <polygon points="80,80 30,40 30,120" fill="#4a7a9b" opacity="0.5"/>
+          <polygon points="80,80 130,35 140,125" fill="#4a7a9b" opacity="0.3"/>
+          <circle cx="80" cy="80" r="8" fill="#c8a84b"/>
+          <polygon points="200,80 250,40 250,120" fill="#6a4a9b" opacity="0.5"/>
+          <polygon points="200,80 150,35 140,125" fill="#6a4a9b" opacity="0.3"/>
+          <circle cx="200" cy="80" r="8" fill="#7a8fa6"/>
+          <ellipse cx="140" cy="80" rx="18" ry="30" fill="#c8a84b" opacity="0.12"/>
+          <text x="20" y="130" font-family="monospace" font-size="9" fill="#7a96aa" letter-spacing="1">BEHAVIORAL TASKS · SURVEY · NYU</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">NYU · Experimental</span>
+        <h3>Network Size &amp; Visual Perspective-Taking</h3>
+        <p>Investigated how social network size relates to the capacity for visual perspective-taking — the ability to mentally simulate another person's viewpoint. Combined behavioral tasks and survey instruments to test cognitive-social hypotheses.</p>
+        <div class="nb-tags">
+          <span class="nb-tag nb-tag--gold">Cognitive Psychology</span>
+          <span class="nb-tag">A/B Testing</span>
+          <span class="nb-tag">Survey Methods</span>
+        </div>
+        <a href="/research/" class="nb-link">View project →</a>
+      </div>
+    </div>
+
+    <div class="nb-card">
+      <div class="nb-card-art">
+        <svg viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="160" fill="#1a2a3a"/>
+          <rect x="55" y="22" width="170" height="108" rx="4" fill="#1e3045" stroke="#2d4a6a" stroke-width="1"/>
+          <rect x="65" y="32" width="100" height="7" rx="2" fill="#c8a84b" opacity="0.7"/>
+          <rect x="65" y="48" width="130" height="5" rx="1" fill="#2d4a6a"/>
+          <circle cx="73" cy="62" r="4" fill="none" stroke="#4a7a9b" stroke-width="1.5"/>
+          <circle cx="73" cy="62" r="2" fill="#4a7a9b"/>
+          <rect x="82" y="59" width="70" height="4" rx="1" fill="#2d4a6a"/>
+          <circle cx="73" cy="74" r="4" fill="none" stroke="#2d4a6a" stroke-width="1.5"/>
+          <rect x="82" y="71" width="90" height="4" rx="1" fill="#2d4a6a"/>
+          <rect x="65" y="86" width="130" height="5" rx="1" fill="#2d4a6a"/>
+          <rect x="65" y="96" width="130" height="20" rx="2" fill="#162030" stroke="#2d4a6a" stroke-width="1"/>
+          <text x="20" y="145" font-family="monospace" font-size="9" fill="#7a96aa" letter-spacing="1">300+ INTERVIEWS · 2,000+ PARTICIPANTS</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">UChicago + NYU · Methods</span>
+        <h3>Survey Instrument Design &amp; Validation</h3>
+        <p>Designed and validated complex survey instruments for social network analysis across studies with 2,000+ participants, grounded in 300+ qualitative interviews. Built Qualtrics API pipelines for automated processing and validation.</p>
+        <div class="nb-tags">
+          <span class="nb-tag nb-tag--gold">Survey Design</span>
+          <span class="nb-tag">Qualtrics API</span>
+          <span class="nb-tag">R</span>
+        </div>
+        <a href="/research/" class="nb-link">View project →</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- INFRASTRUCTURE -->
+<div class="nb-section">
+  <div class="nb-section-header">
+    <span class="nb-label">Research Infrastructure</span>
+    <h2>Built because the right tool didn't exist.</h2>
+    <p>I build infrastructure when off-the-shelf tools fail my research needs — not because I'm an engineer, but because rigorous research sometimes demands it.</p>
+  </div>
+
+  <div class="nb-grid nb-grid--4">
+
+    <div class="nb-card nb-card--sm">
+      <div class="nb-card-art nb-card-art--sm">
+        <svg viewBox="0 0 280 120" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="120" fill="#1a2a3a"/>
+          <ellipse cx="140" cy="36" rx="50" ry="12" fill="#2d4a6a"/>
+          <rect x="90" y="36" width="100" height="22" fill="#2d4a6a"/>
+          <ellipse cx="140" cy="58" rx="50" ry="12" fill="#3a5a7a"/>
+          <rect x="90" y="58" width="100" height="22" fill="#3a5a7a"/>
+          <ellipse cx="140" cy="80" rx="50" ry="12" fill="#4a6a8a"/>
+          <ellipse cx="140" cy="36" rx="50" ry="12" fill="none" stroke="#c8a84b" stroke-width="1" opacity="0.6"/>
+          <text x="140" y="106" font-family="monospace" font-size="8" fill="#7a96aa" text-anchor="middle" letter-spacing="1">SQL · MARIADB · 3,000+ PARTICIPANTS</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">NYU</span>
+        <h3>Centralized SQL Database</h3>
+        <p>Integrated data from 6 projects and 3,000+ participants. Cut analysis turnaround by 75% — from 8 weeks to 2.</p>
+        <div class="nb-tags"><span class="nb-tag">SQL · MariaDB</span></div>
+      </div>
+    </div>
+
+    <div class="nb-card nb-card--sm">
+      <div class="nb-card-art nb-card-art--sm">
+        <svg viewBox="0 0 280 120" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="120" fill="#1a2a3a"/>
+          <polyline points="20,60 50,60 65,30 80,90 95,45 110,75 125,60 155,60 170,35 185,85 200,50 215,70 240,60 260,60" fill="none" stroke="#c8a84b" stroke-width="1.8" stroke-linejoin="round"/>
+          <circle cx="65"  cy="30" r="3" fill="#c8a84b"/>
+          <circle cx="95"  cy="45" r="3" fill="#c8a84b"/>
+          <circle cx="170" cy="35" r="3" fill="#c8a84b"/>
+          <text x="140" y="108" font-family="monospace" font-size="8" fill="#7a96aa" text-anchor="middle" letter-spacing="1">PYTHON · ETL · 500+ USERS · CMI</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">Child Mind Institute</span>
+        <h3>Multimodal Data Collection Lab</h3>
+        <p>Zero-to-one build of a behavioral + physiological lab. ETL pipeline detected protocol deviations in near real-time across 500+ users.</p>
+        <div class="nb-tags"><span class="nb-tag">Python · ETL</span></div>
+      </div>
+    </div>
+
+    <div class="nb-card nb-card--sm">
+      <div class="nb-card-art nb-card-art--sm">
+        <svg viewBox="0 0 280 120" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="120" fill="#1a2a3a"/>
+          <rect x="60" y="14" width="160" height="80" rx="4" fill="#162030" stroke="#2d4a6a" stroke-width="1.5"/>
+          <line x1="140" y1="34" x2="140" y2="74" stroke="#c8a84b" stroke-width="1.5" opacity="0.6"/>
+          <line x1="120" y1="54" x2="160" y2="54" stroke="#c8a84b" stroke-width="1.5" opacity="0.6"/>
+          <circle cx="140" cy="54" r="16" fill="none" stroke="#4a7a9b" stroke-width="1" opacity="0.5"/>
+          <rect x="126" y="94" width="28" height="6" rx="2" fill="#2d4a6a"/>
+          <rect x="116" y="100" width="48" height="4" rx="2" fill="#2d4a6a"/>
+          <text x="140" y="116" font-family="monospace" font-size="8" fill="#7a96aa" text-anchor="middle" letter-spacing="1">PYTHON · PYGAME · REPLACES PSYCHOPY</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">Child Mind Institute</span>
+        <h3>Custom Stimulus Software</h3>
+        <p>Designed a pygame-based replacement for PsychoPy, improving data quality and participant experience in behavioral experiments.</p>
+        <div class="nb-tags"><span class="nb-tag">Python · pygame</span></div>
+      </div>
+    </div>
+
+    <div class="nb-card nb-card--sm">
+      <div class="nb-card-art nb-card-art--sm">
+        <svg viewBox="0 0 280 120" xmlns="http://www.w3.org/2000/svg">
+          <rect width="280" height="120" fill="#1a2a3a"/>
+          <defs>
+            <marker id="arr2" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+              <path d="M0,0 L6,3 L0,6 Z" fill="#c8a84b"/>
+            </marker>
+          </defs>
+          <rect x="30" y="20" width="8"  height="8" rx="1" fill="#c8a84b" opacity="0.8"/>
+          <rect x="44" y="20" width="90" height="8" rx="1" fill="#2d4a6a"/>
+          <rect x="30" y="34" width="8"  height="8" rx="1" fill="#4a9b6a" opacity="0.7"/>
+          <rect x="44" y="34" width="120" height="8" rx="1" fill="#2d4a6a"/>
+          <rect x="30" y="48" width="8"  height="8" rx="1" fill="#4a7a9b" opacity="0.8"/>
+          <rect x="44" y="48" width="70" height="8" rx="1" fill="#2d4a6a"/>
+          <rect x="30" y="62" width="8"  height="8" rx="1" fill="#c8a84b" opacity="0.5"/>
+          <rect x="44" y="62" width="100" height="8" rx="1" fill="#2d4a6a"/>
+          <line x1="200" y1="44" x2="246" y2="44" stroke="#c8a84b" stroke-width="1.5" marker-end="url(#arr2)"/>
+          <rect x="200" y="30" width="48" height="28" rx="3" fill="#1e3045" stroke="#2d4a6a" stroke-width="1"/>
+          <text x="224" y="48" font-family="monospace" font-size="8" fill="#4a9b6a" text-anchor="middle">auto</text>
+          <text x="140" y="106" font-family="monospace" font-size="8" fill="#7a96aa" text-anchor="middle" letter-spacing="1">R · QUALTRICS API · NYU + UCHICAGO</text>
+        </svg>
+      </div>
+      <div class="nb-card-body">
+        <span class="nb-card-label">NYU + UChicago</span>
+        <h3>R Packages &amp; Qualtrics Pipelines</h3>
+        <p>Custom R packages and API pipelines to automate survey data cleaning, analysis, and visualization — collapsing weeks into reproducible scripts.</p>
+        <div class="nb-tags"><span class="nb-tag">R · Qualtrics API</span></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</div><!-- /home-wrapper -->
+
+
+<style>
+.home-wrapper { max-width: 1200px; margin: 0 auto; padding: 0 1.5rem 4rem; }
+
+.nb-section { padding: 4rem 0 2rem; }
+.nb-section--alt { background: transparent; }
+
+.nb-section-header {
+  text-align: center;
+  max-width: 620px;
+  margin: 0 auto 2.5rem;
+}
+.nb-label {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 0.6rem;
+}
+.nb-section-header h2 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  margin: 0.35rem 0 0.75rem;
+  line-height: 1.2;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+.nb-section-header p {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.nb-grid { display: grid; gap: 1.25rem; }
+.nb-grid--3 { grid-template-columns: repeat(3, 1fr); }
+.nb-grid--4 { grid-template-columns: repeat(4, 1fr); }
+
+@media (max-width: 900px) {
+  .nb-grid--3 { grid-template-columns: repeat(2, 1fr); }
+  .nb-grid--4 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .nb-grid--3, .nb-grid--4 { grid-template-columns: 1fr; }
+}
+
+.nb-card {
+  border: 1px solid #e2e2e2;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+.nb-card:hover {
+  box-shadow: 0 8px 32px rgba(0,0,0,0.09);
+  transform: translateY(-3px);
+}
+.nb-card--featured { border-color: #c8a84b; }
+.nb-card--featured .nb-card-art { border-bottom: 2px solid #c8a84b; }
+
+.nb-card-art svg      { display: block; width: 100%; height: 160px; }
+.nb-card-art--sm svg  { height: 120px; }
+
+.nb-card-body {
+  padding: 1.25rem 1.4rem 1.4rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.nb-card-label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 0.4rem;
+}
+.nb-card--featured .nb-card-label { color: #c8a84b; }
+.nb-card-body h3 {
+  font-size: 0.98rem;
+  font-weight: 700;
+  margin: 0 0 0.55rem;
+  line-height: 1.3;
+  border: none;
+  padding: 0;
+  color: #1a1a2e;
+}
+.nb-card-body p {
+  font-size: 0.84rem;
+  color: #555;
+  line-height: 1.65;
+  margin: 0 0 0.9rem;
+  flex: 1;
+}
+
+.nb-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: auto; }
+.nb-tag {
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: 2px;
+  border: 1px solid #ddd;
+  color: #666;
+  background: #f8f8f8;
+  letter-spacing: 0.02em;
+}
+.nb-tag--gold { border-color: #c8a84b; color: #9a7a1a; background: #fdf8ee; }
+
+.nb-link {
+  display: inline-block;
+  margin-top: 0.85rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #2d6a9b;
+  text-decoration: none;
+  letter-spacing: 0.04em;
+}
+.nb-link:hover { color: #c8a84b; }
+
+.page__hero--overlay .page__title {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
+.page__hero--overlay .page__lead {
+  font-size: 1rem;
+  font-weight: 300;
+  max-width: 640px;
+  line-height: 1.7;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.4);
+}
+.page__hero--overlay .btn {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
+</style>
