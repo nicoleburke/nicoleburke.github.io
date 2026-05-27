@@ -4,83 +4,77 @@ permalink: /aiprojects/
 layout: splash
 ---
 ## AI Projects
-
-<!-- ### Built NLP Classification Pipeline using chatGPT
-<div class="project-card">
-
-<p><strong>Tools:</strong> Python · NLP · ChatGPT API<br>
-<strong>Impact:</strong> 77% accuracy · 50% reduction in processing time</p>
-
-<h5>The question</h5>
-
-<p>
-Can large language models reliably classify nuanced human language at scale?
-</p>
-
-<h5>What I did</h5>
-
-<p>
-Built an end-to-end NLP classification pipeline using the ChatGPT API.
-</p>
-
-</div> -->
-
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-badge">🚀 Core Project · NLP</div>
+    <!-- <div class="card-badge">🚀 Core Project · NLP</div> -->
     <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
     
     <div class="card-body">
-      Built an end-to-end NLP classification pipeline designed to test the boundaries of large language models in organizational research. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
+      Reduced manual text processing time by <strong>50% (4 to 2 months)</strong> by building an NLP classification pipeline using the ChatGPT API, achieving 77% model accuracy on a language classification task. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
     </div>
     
     <div class="card-meta">
       <span class="tag tag-teal">ChatGPT API</span>
-      <span class="tag tag-teal">Python</span>
+      <span class="tag tag-teal">R</span>
       <span class="tag tag-teal">NLP</span>
-      <span class="tag tag-slate">Data Engineering</span>
-      <span class="tag tag-slate">Validation Metrics</span>
+      <span class="tag tag-slate">Data Pipelines</span>
     </div>
   </div>
 
   <div class="card-detail">
     <div class="detail-row">
       <span class="detail-label">The Question</span>
-      <span class="detail-value">Can large language models reliably classify complex, nuanced human language at scale while keeping up with human precision?</span>
+      <span class="detail-value">Can LLMs reliably classify complex, nuanced human language at scale to replace manual human coding?</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">What I Did</span>
-      <span class="detail-value">Developed a structured API pipeline to feed qualitative text into GPT models, engineering prompt layers to ensure highly standardized classification outputs.</span>
+      <span class="detail-value">Developed a structured API pipeline to feed utterance level text into GPT model and used prompt engineering to acheieve accuracy in outputs.</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal"><strong>77% accuracy</strong> achieved against human-coded benchmarks with a <strong>50% reduction</strong> in total processing time.</span>
+      <span class="detail-value highlight-teal"><strong>77% overall model accuracy</strong> achieved against human-coded benchmarks. This reduced our manual text process time by <strong>50%</strong>, which allowed us to expedite time to completion for research projects.</span>
     </div>
   </div>
 </div>
 
+<div class="project-card featured">
+  <div class="card-main">
+    <!-- <div class="card-badge">🚀 Core Project · NLP</div> -->
+    <div class="card-title">Side Project: Sentiment Analysis on open-ended employee survey responses</div>
+    
+    <div class="card-body">
+      Built a sentiment analysis pipeline using an open-source large language model to analyze a dataset containing 400 open-ended employee survey responses. I’ve been building meaningful relationships in the People Analytics space and a common question across teams and industries is the desire to utilize open-ended survey responses on employee surveys. Open-ended survey responses contain the richest qualitative signal in any employee dataset — but hand-coding thousands of responses is prohibitively slow. Further, datasets can vary in size, which means fine-tuning a NLP model is not an option. The challenge is finding something that can work out of box to automate coding sentiment.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">Open Source LLMs</span>
+      <span class="tag tag-teal">Python</span>
+      <span class="tag tag-teal">NLP</span>
+      <span class="tag tag-slate">Data Pipelines</span>
+    </div>
+  </div>
+
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">How can People Analytics teams extract meaningful signal from open-ended employee survey responses without spending months on manual coding?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Using an open source LLM via HuggingFace, I was able to use a model to automate sentiment on open-ended employee survey responses. Code available here: LINK.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">The tool makes qualitative survey data tractable at scale — giving People Analytics teams access to the full richness of what employees actually write, not just how they rate things on a Likert scale.</span>
+    </div>
+  </div>
+</div>
+
+
+
+
 ABOVE IS TESTING
-### Built NLP Classification Pipeline using chatGPT
 
-##### The question
-
-Can large language models reliably classify nuanced human language at scale — or do they break down when the categories require contextual interpretation rather than simple keyword matching?
-
-##### Why it was hard
-
-The dataset involved complex language classifications where meaning depended heavily on context, phrasing, and subtle semantic distinctions. Traditional rule-based approaches struggled to generalize, while manual coding required months of researcher time and introduced bottlenecks into the analysis pipeline.
-
-The challenge was building a system accurate enough to meaningfully reduce human labor without sacrificing reliability on ambiguous cases.
-
-##### What I did
-
-Built an end-to-end NLP classification pipeline using the ChatGPT API to automate language classification within a large behavioral dataset. Designed prompts, preprocessing workflows, and validation procedures to evaluate model performance against human-coded benchmarks.
-
-Iteratively refined the classification framework to improve consistency on edge cases and reduce systematic classification errors.
-
-##### What it showed
-
-The final pipeline achieved 77% classification accuracy while reducing manual text processing time by 50% — from roughly four months to two. The project demonstrated that large language models can substantially accelerate qualitative research workflows when paired with rigorous validation and thoughtfully designed evaluation procedures.
 ____________________________________________________________________________________________________________________________________________________
 
 ### Side Project: Sentiment Analysis on open-ended employee survey responses
