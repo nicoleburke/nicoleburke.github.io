@@ -38,3 +38,13 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Project cards */
+.project-card {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-left: 4px solid #2c4a52;
+  border-radius: 6px;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}

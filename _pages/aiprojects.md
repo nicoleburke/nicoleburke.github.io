@@ -5,6 +5,23 @@ layout: splash
 ---
 ## AI Projects
 
+<div class="project-card">
+
+## NLP Classification Pipeline using ChatGPT API
+
+**Tools:** Python · NLP · ChatGPT API  
+**Impact:** 77% accuracy · 50% reduction in processing time
+
+##### The question
+
+Can large language models reliably classify nuanced human language at scale?
+
+##### What I did
+
+Built an end-to-end NLP classification pipeline using the ChatGPT API.
+
+</div>
+
 ### Built NLP Classification Pipeline using chatGPT
 
 ##### The question
@@ -49,7 +66,8 @@ Used the model outputs to organize qualitative feedback into interpretable categ
 ##### What it showed
 
 The sentiment analysis surfaced patterns that were not visible in structured survey metrics alone, demonstrating the value of combining qualitative feedback with scalable NLP workflows. The project showed how open-source language models can help organizations transform large volumes of unstructured employee feedback into actionable insight while preserving much of the nuance present in human responses.
-____________________________________________________________________________________________________________________________________________________
+
+_____________________________________________________________________________________________________________________________________________________
 
 ### Side Project: Automated Voice-Part Playlist Builder (built by AI)
 

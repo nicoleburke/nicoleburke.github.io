@@ -3,7 +3,7 @@ title: ""
 permalink: /researchinfrastructure/
 layout: splash
 ---
-## Research Infrastructure
+## Engineering and Infrastructure Work 
 
 1. SQL database NYU
 
