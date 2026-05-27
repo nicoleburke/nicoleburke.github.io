@@ -7,18 +7,22 @@ layout: splash
 
 <div class="project-card">
 
-## NLP Classification Pipeline using ChatGPT API
+<h2>NLP Classification Pipeline using ChatGPT API</h2>
 
-**Tools:** Python · NLP · ChatGPT API  
-**Impact:** 77% accuracy · 50% reduction in processing time
+<p><strong>Tools:</strong> Python · NLP · ChatGPT API<br>
+<strong>Impact:</strong> 77% accuracy · 50% reduction in processing time</p>
 
-##### The question
+<h5>The question</h5>
 
+<p>
 Can large language models reliably classify nuanced human language at scale?
+</p>
 
-##### What I did
+<h5>What I did</h5>
 
+<p>
 Built an end-to-end NLP classification pipeline using the ChatGPT API.
+</p>
 
 </div>
 
