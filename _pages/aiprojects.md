@@ -9,18 +9,9 @@ layout: splash
 
 <div class="project-meta">
 
-Python · NLP · ChatGPT API · 77% Accuracy · 50% Reduction in Processing Time
-
-</div>
-
-##### The question
-
-Can large language models reliably classify nuanced human language at scale?
-
-##### Why it was hard
-
-...
-
+**Problem**: Use chatGPT to replace human coder on language classification task.
+**Tools**: R · chatGPT API 
+**Impact**: 77% model accuracy · 50% Reduction in Processing Time
 </div>
 
 
