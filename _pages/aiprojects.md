@@ -8,6 +8,7 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-badge">🗣️ NLP</div>
+    <div class="card-badge">🔬 Professional Work</div>
     <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
     
     <div class="card-body">
@@ -42,6 +43,7 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-badge">🗣️ NLP</div>
+        <div class="card-badge">💡 Side Project</div>
     <div class="card-title">Side Project: Sentiment Analysis on open-ended employee survey responses</div>
     
     <div class="card-body">
@@ -76,6 +78,7 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-badge">🎶 AI Prototype</div>
+    <div class="card-badge">💡 Side Project</div>
     <div class="card-title">Side Project: Automated Voice-Part Playlist Builder (built by AI)</div>
     
     <div class="card-body">
@@ -104,6 +107,49 @@ layout: splash
     </div>
   </div>
 </div>
+
+<!-- Contract Work: AI Evaluation Dataset Question Developer -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-badge">🎶 AI Prototype</div>
+    <div class="card-badge">🤝 Contract Work</div>
+    <div class="card-title">Contract Work: Automated Voice-Part Playlist Builder (built by AI)</div>
+    
+    <div class="card-body">
+      I am in a choir and we receive our practice tracks as individual .mp4 files on a shared Google Drive folder. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the chior. This will make it easier for members to practice and we can track choir member usage via the app. 
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">AI Prototype</span>
+      <span class="tag tag-teal">R Shiny App</span>
+      <span class="tag tag-teal">Engineering</span>
+    </div>
+  </div>
+
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">How can you make large collections of distributed media files actually usable for non-technical people — without asking them to manually download, organize, and manage dozens of individual files?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Used Claude to generate app to make prototype for choir director. The entire project took ~30mins. The prototype allowed me to share a working model to receive feedback.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">The tool makes it easier for choir members to practice. We saw an increase in practice through self-reported measures, which we could validate by tracking the useage of the application.</span>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
 
 ### AI Evaluation Dataset Question Developer  
 
