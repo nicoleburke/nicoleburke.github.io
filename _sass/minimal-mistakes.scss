@@ -39,12 +39,50 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-/* Project cards */
+// /* Project cards */
+// .project-card {
+//   background: #fafafa;
+//   border: 1px solid #e5e5e5;
+//   border-left: 4px solid #2c4a52;
+//   border-radius: 6px;
+//   padding: 2rem;
+//   margin-bottom: 3rem;
+// }
+
+/* Blue AI project cards */
 .project-card {
-  background: #fafafa;
-  border: 1px solid #e5e5e5;
-  border-left: 4px solid #2c4a52;
-  border-radius: 6px;
+  background: #f4f8fc;
+  border: 1px solid #d6e4f0;
+  border-left: 5px solid #2563eb;
+  border-radius: 8px;
   padding: 2rem;
   margin-bottom: 3rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+/* Section headers inside cards */
+.project-card h2,
+.project-card h3 {
+  margin-top: 0;
+  color: #1e3a5f;
+}
+
+/* Small headers */
+.project-card h5 {
+  color: #2563eb;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.9rem;
+}
+
+/* Paragraph spacing */
+.project-card p {
+  line-height: 1.8;
+}
+
+/* Metadata line */
+.project-meta {
+  color: #4b5563;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
 }

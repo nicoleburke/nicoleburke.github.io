@@ -5,23 +5,26 @@ layout: splash
 ---
 ## AI Projects
 
-<div class="project-card">
+### NLP Classification Pipeline using ChatGPT API
 
-## NLP Classification Pipeline using ChatGPT API
+<div class="project-meta">
 
-**Tools:** Python · NLP · ChatGPT API  
-**Impact:** 77% accuracy · 50% reduction in processing time
+Python · NLP · ChatGPT API · 77% Accuracy · 50% Reduction in Processing Time
+
+</div>
 
 ##### The question
 
 Can large language models reliably classify nuanced human language at scale?
 
-##### What I did
+##### Why it was hard
 
-Built an end-to-end NLP classification pipeline using the ChatGPT API.
+...
 
 </div>
 
+
+ABOVE IS TESTING
 ### Built NLP Classification Pipeline using chatGPT
 
 ##### The question
