@@ -25,56 +25,38 @@ Built an end-to-end NLP classification pipeline using the ChatGPT API.
 
 </div> -->
 
-<div class="project-card featured-project">
-
-  <div class="project-badge">
-    ⭐ Featured Project
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-badge">🚀 Core Project · NLP</div>
+    <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
+    
+    <div class="card-body">
+      Built an end-to-end NLP classification pipeline designed to test the boundaries of large language models in organizational research. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">ChatGPT API</span>
+      <span class="tag tag-teal">Python</span>
+      <span class="tag tag-teal">NLP</span>
+      <span class="tag tag-slate">Data Engineering</span>
+      <span class="tag tag-slate">Validation Metrics</span>
+    </div>
   </div>
 
-  <h3 class="project-title">
-    Built NLP Classification Pipeline Using ChatGPT
-  </h3>
-
-  <p class="project-summary">
-    Developed an end-to-end NLP classification pipeline using the ChatGPT API
-    to classify nuanced human language at scale, reducing manual review time
-    while maintaining strong classification accuracy.
-  </p>
-
-  <div class="project-tags">
-    <span>Python</span>
-    <span>NLP</span>
-    <span>ChatGPT API</span>
-    <span>LLMs</span>
-    <span>People Analytics</span>
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">Can large language models reliably classify complex, nuanced human language at scale while keeping up with human precision?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Developed a structured API pipeline to feed qualitative text into GPT models, engineering prompt layers to ensure highly standardized classification outputs.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal"><strong>77% accuracy</strong> achieved against human-coded benchmarks with a <strong>50% reduction</strong> in total processing time.</span>
+    </div>
   </div>
-
-  <div class="project-details">
-
-    <div class="detail-row">
-      <div class="detail-label">Question</div>
-      <div class="detail-value">
-        Can large language models reliably classify nuanced human language at scale?
-      </div>
-    </div>
-
-    <div class="detail-row">
-      <div class="detail-label">Approach</div>
-      <div class="detail-value">
-        Built a production-style NLP workflow leveraging the ChatGPT API for
-        automated text classification and evaluated performance against labeled examples.
-      </div>
-    </div>
-
-    <div class="detail-row">
-      <div class="detail-label">Impact</div>
-      <div class="detail-value">
-        Achieved 77% classification accuracy and reduced processing time by 50%.
-      </div>
-    </div>
-
-  </div>
-
 </div>
 
 ABOVE IS TESTING
