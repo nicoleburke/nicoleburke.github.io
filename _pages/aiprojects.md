@@ -5,15 +5,22 @@ layout: splash
 ---
 ## AI Projects
 
-### NLP Classification Pipeline using ChatGPT API
+<div class="project-card">
 
-<div class="project-meta">
+## NLP Classification Pipeline using ChatGPT API
 
-**Problem**: Use chatGPT to replace human coder on language classification task.
-**Tools**: R · chatGPT API 
-**Impact**: 77% model accuracy · 50% Reduction in Processing Time
+**Tools:** Python · NLP · ChatGPT API  
+**Impact:** 77% accuracy · 50% reduction in processing time
+
+##### The question
+
+Can large language models reliably classify nuanced human language at scale?
+
+##### What I did
+
+Built an end-to-end NLP classification pipeline using the ChatGPT API.
+
 </div>
-
 
 ABOVE IS TESTING
 ### Built NLP Classification Pipeline using chatGPT
