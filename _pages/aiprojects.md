@@ -4,13 +4,14 @@ permalink: /aiprojects/
 layout: splash
 ---
 ## AI Projects
+<!-- NYU NLP PROJECT -->
 <div class="project-card featured">
   <div class="card-main">
-    <!-- <div class="card-badge">🚀 Core Project · NLP</div> -->
+    <div class="card-badge">🗣️ NLP</div>
     <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
     
     <div class="card-body">
-      Reduced manual text processing time by <strong>50% (4 to 2 months)</strong> by building an NLP classification pipeline using the ChatGPT API, achieving 77% model accuracy on a language classification task. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
+      Reduced manual text processing time by <strong>50% (4 to 2 months)</strong> by building an <strong>NLP classification pipeline</strong> using the <strong>ChatGPT API</strong>, achieving 77% model accuracy on a language classification task. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
     </div>
     
     <div class="card-meta">
@@ -37,9 +38,10 @@ layout: splash
   </div>
 </div>
 
+<!-- SIDE PROJECT SENTIMENT ANALYSIS -->
 <div class="project-card featured">
   <div class="card-main">
-    <!-- <div class="card-badge">🚀 Core Project · NLP</div> -->
+    <div class="card-badge">🗣️ NLP</div>
     <div class="card-title">Side Project: Sentiment Analysis on open-ended employee survey responses</div>
     
     <div class="card-body">
@@ -70,61 +72,38 @@ layout: splash
   </div>
 </div>
 
+<!-- Side Project: Automated Voice-Part Playlist Builder (built by AI) -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-badge">🎶 AI Prototype</div>
+    <div class="card-title">Side Project: Automated Voice-Part Playlist Builder (built by AI)</div>
+    
+    <div class="card-body">
+      I am in a choir and we receive our practice tracks as individual .mp4 files on a shared Google Drive folder. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the chior. This will make it easier for members to practice and we can track choir member usage via the app. 
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">AI Prototype</span>
+      <span class="tag tag-teal">R Shiny App</span>
+      <span class="tag tag-teal">Engineering</span>
+    </div>
+  </div>
 
-
-
-ABOVE IS TESTING
-
-____________________________________________________________________________________________________________________________________________________
-
-### Side Project: Sentiment Analysis on open-ended employee survey responses
-
-##### The question
-
-Can large language models reliably extract meaningful organizational insights from open-ended employee feedback — or does important nuance disappear when qualitative responses are analyzed at scale?
-
-##### Why it was hard
-
-Open-ended employee survey responses contain some of the richest signals about morale, leadership, burnout, and organizational culture, but they are notoriously difficult to analyze systematically. Manual coding is slow and difficult to scale, while traditional sentiment analysis methods often miss context, sarcasm, mixed sentiment, and emotionally complex responses.
-
-The challenge was building a workflow that could surface meaningful patterns across hundreds of qualitative responses without flattening the human complexity that made the data valuable in the first place.
-
-##### What I did
-
-Built a sentiment analysis pipeline using an open-source large language model to analyze a dataset containing 400 open-ended employee survey responses. Designed prompting and classification procedures to identify patterns in employee sentiment and extract recurring themes across responses.
-
-Used the model outputs to organize qualitative feedback into interpretable categories that could be incorporated into broader organizational analyses and decision-making workflows.
-
-##### What it showed
-
-The sentiment analysis surfaced patterns that were not visible in structured survey metrics alone, demonstrating the value of combining qualitative feedback with scalable NLP workflows. The project showed how open-source language models can help organizations transform large volumes of unstructured employee feedback into actionable insight while preserving much of the nuance present in human responses.
-
-_____________________________________________________________________________________________________________________________________________________
-
-### Side Project: Automated Voice-Part Playlist Builder (built by AI)
-
-##### The question
-
-How can you make large collections of distributed media files actually usable for non-technical people — without asking them to manually download, organize, and manage dozens of individual files?
-
-##### Why it was hard
-
-My choir distributes rehearsal tracks as individual .mp4 files through a shared Google Drive. In practice, this made mobile listening frustrating: singers had to manually locate, download, and organize files one at a time, often across multiple voice parts and rehearsal sessions.
-
-The underlying problem wasn’t file storage — it was usability. The system lacked a simple listening interface that matched how people actually consumed the content.
-
-##### What I did
-
-Built a lightweight R Shiny application in roughly 25 minutes using Claude as a coding collaborator. The app ingested rehearsal track files from Google Drive, automatically organized them by voice part, and generated a playlist-style listening interface optimized for mobile use.
-
-Focused on rapid prototyping and practical UX: minimizing friction between receiving rehearsal materials and actually listening to them.
-
-##### What it showed
-
-The project demonstrated how quickly AI-assisted development can turn a small but meaningful user frustration into a working product. More importantly, it showed the value of combining behavioral intuition with rapid technical execution: identifying the real usability bottleneck, designing around user behavior, and shipping a functional solution almost immediately.
-
-Even though the project was small in scope, it reflected the same mindset behind larger applied AI systems — using modern tools to reduce friction, improve user experience, and build practical solutions fast.
-____________________________________________________________________________________________________________________________________________________
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">How can you make large collections of distributed media files actually usable for non-technical people — without asking them to manually download, organize, and manage dozens of individual files?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Used Claude to generate app to make prototype for choir director. The entire project took ~30mins. The prototype allowed me to share a working model to receive feedback.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">The tool makes it easier for choir members to practice. We saw an increase in practice through self-reported measures, which we could validate by tracking the useage of the application.</span>
+    </div>
+  </div>
+</div>
 
 ### AI Evaluation Dataset Question Developer  
 
