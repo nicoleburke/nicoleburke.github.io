@@ -8,7 +8,7 @@ layout: splash
 ### Built NLP Classification Pipeline using chatGPT
 <div class="project-card">
 
-<p><strong>Tools:</strong> R · NLP · ChatGPT API<br>
+<p><strong>Tools:</strong> Python · NLP · ChatGPT API<br>
 <strong>Impact:</strong> 77% accuracy · 50% reduction in processing time</p>
 
 <h5>The question</h5>
