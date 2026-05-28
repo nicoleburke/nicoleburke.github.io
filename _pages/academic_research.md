@@ -16,11 +16,10 @@ layout: splash
     
     <div class="card-meta">
       <span class="tag tag-blue">R</span>
+      <span class="tag tag-blue">Qualtrics</span>
       <span class="tag tag-teal">Social Network Analysis</span>
-      <span class="tag tag-indigo">Survey Research</span>
-      <span class="tag tag-amber">Qualtrics</span>
-      <span class="tag tag-slate">Regression</span>
-      <span class="tag tag-terracotta">test</span>
+      <span class="tag tag-teal">Regression</span>
+      <span class="tag tag-slate">Survey Research</span>
     </div>
   </div>
 
@@ -53,23 +52,23 @@ layout: splash
     <div class="card-meta">
       <span class="tag tag-blue">R</span>
       <span class="tag tag-teal">Social Network Analysis</span>
-      <span class="tag tag-teal">Survey Research</span>
-      <span class="tag tag-slate">Regression</span>
+      <span class="tag tag-teal">Regression</span>
+      <span class="tag tag-slate">Survey Research</span>
     </div>
   </div>
 
   <div class="card-detail">
     <div class="detail-row">
       <span class="detail-label">The Question</span>
-      <span class="detail-value">Does the sheer size of an individual's regular social network predict their performance on complex, real-time perspective-taking and communication tasks?</span>
+      <span class="detail-value">Does social network size relate to children's visual perspective-taking (PT) skill?</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">What I Did</span>
-      <span class="detail-value">Designed a multi-method research framework combining structured survey instrumentation (Social Network Questionnaire) with a rigorous, video-coded behavioral task evaluating hidden informational perspectives.</span>
+      <span class="detail-value">Conducted a multi-level study where I used a custom survey instrument to measure children's social networks and used behavioral experimental methods to measure children's PT skills.</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal">Identified a statistically significant <strong>interaction effect (ß = 0.22, p &lt; 0.05)</strong> revealing that larger network sizes directly drive success on the highest-friction communication trials (the "Does Not See" condition). This proves that exposure to network scale actively mitigates cognitive friction when mapping informational asymmetries—a foundational layer for engineering empathetic user experiences and optimized team networks.</span>
+      <span class="detail-value highlight-teal">Identified a statistically significant <strong>interaction effect (ß = 0.22, p &lt; 0.05)</strong> revealing that larger network sizes relates to children's PT skill, while controlling for child age. This study demonstrates that network properties are related to children's socio-cognitive skill.</span>
     </div>
   </div>
 </div>

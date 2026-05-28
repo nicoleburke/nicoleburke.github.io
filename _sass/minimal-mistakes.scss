@@ -151,18 +151,19 @@
     &.tag-teal {
       background: #c5ecf2; // Your light teal accent
       color: #1b3339;
+      border:#c5ecf2
     }
 
     &.tag-slate {
-      background: #f1f3f5;
+      background: #d6d9dc;
       color: #495057;
-      border: 1px solid #e9ecef;
+      border: 1px solid #d6d9dc;
     }
 
     &.tag-blue {
-      background: #d0e4f8;
+      background: #a3d1ff;
       color: #495057;
-    //   border: 1px solid #e9ecef;
+      border: 1px solid #a3d1ff;
     }
 
     &.tag-indigo {
@@ -176,12 +177,6 @@
         color: #92400E;
         border: 1px solid rgba(146, 64, 14, 0.15);
     }
-
-    &.tag-terracotta {
-        background: #fdf2f0;
-        color: #b84a39;
-        border: 1px solid rgba(184, 74, 57, 0.15);
-        }
   }
 
   // Right Section Layout (The Details Sidebar)
