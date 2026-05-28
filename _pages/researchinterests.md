@@ -5,6 +5,9 @@ layout: splash
 author_profile: false 
 ---
 ## Research Projects 
+
+Click here for my [industry projects](https://nicoleburke.github.io/industry_research/)
+
 <!-- Strong Analytics Project -->
 <div class="project-card featured">
   <div class="card-main">
