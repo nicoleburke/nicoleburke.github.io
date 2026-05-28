@@ -19,7 +19,7 @@ layout: splash
       <span class="tag tag-blue">R</span>
       <span class="tag tag-teal">NLP</span>
       <span class="tag tag-teal">chatGPT API</span>
-      <span class="tag tag-slate">Data Pipelines</span>
+      <span class="tag tag-teal">Data Pipelines</span>
     </div>
   </div>
 
@@ -54,7 +54,7 @@ layout: splash
       <span class="tag tag-blue">Python</span>
       <span class="tag tag-teal">Open Source LLMs</span>
       <span class="tag tag-teal">NLP</span>
-      <span class="tag tag-slate">Data Pipelines</span>
+      <span class="tag tag-teal">Data Pipelines</span>
     </div>
   </div>
 
