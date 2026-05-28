@@ -46,7 +46,7 @@ layout: splash
   <div class="card-title">Social Network Size Predicts Perspective-Taking</div>
     
     <div class="card-body">
-      Investigated how social network properties, in particular social network size, relates to visual perspective-taking (PT) capabilities. We found that children in larger social networks demonstrated superior PT skills, which validates the <storng>Social Brain Hypothesis</strong>. While these findings are correlational and it is impossible to determine a causal effect, they suggest that the enviornment does play a role in shaping children's early socio-cognitive skills.
+      Investigated how social network properties, in particular social network size, relates to visual perspective-taking (PT) capabilities. We found that children in larger social networks demonstrated superior PT skills, which validates the <strong>Social Brain Hypothesis</strong>. While these findings are correlational and it is impossible to determine a causal effect, they suggest that the enviornment does play a role in shaping children's early socio-cognitive skills.
     </div>
     
     <div class="card-meta">
