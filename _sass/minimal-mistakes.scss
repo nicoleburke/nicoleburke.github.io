@@ -187,3 +187,55 @@
     }
   }
 }
+/* Spacing for multiple badges */
+.card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Publications Sub-list Styling */
+.card-publications {
+  margin-top: 2rem;
+  border-top: 1px dashed rgba(44, 74, 82, 0.2); // Soft teal divider
+  padding-top: 1.5rem;
+
+  .pub-section-title {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #2c4a52; // Your deep teal signature color
+    margin-bottom: 1rem;
+    font-weight: 700;
+  }
+
+  .pub-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem; // Spacing between individual citations
+
+    li {
+      font-size: 0.9rem;
+      color: #4a5568;
+      line-height: 1.5;
+    }
+  }
+
+  /* Interactive paper/OSF links */
+  .pub-link {
+    color: #2c4a52;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 0.25rem;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #c5ecf2;
+      text-decoration: underline;
+    }
+  }
+}
