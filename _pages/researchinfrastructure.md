@@ -4,6 +4,46 @@ permalink: /researchinfrastructure/
 layout: splash
 ---
 ## Engineering and Infrastructure Work 
+<!-- Custom Experimental Software & UX Research Instrumentation -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-title">Custom Experimental Software for Research</div>
+    
+    <div class="card-badges">
+      <span class="card-badge">🖥️ Software Engineering</span> 
+    </div>
+    
+    <div class="card-body">
+      Designed, created, and deployed custom-built software for stimulus presentation, replacing industry-standard tool. This software improved the industry-standard software in two important ways. 1) It is easier to implement across computers and research sites. 2) It is more flexible and allows for easier integration of event markers into the protocol, which reduces post-processing analysis time. It is publically available here: https://github.com/childmindresearch/graphomotor_cmi
+
+      It is currently being used at our offices in New York, as well as in Stellenbosch, South Africa and São Paulo, Brazil. 
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">Python (Pygame)</span>
+      <span class="tag tag-teal">UX Instrumentation</span>
+      <span class="tag tag-teal">Interface Design</span>
+      <span class="tag tag-slate">Latency Optimization</span>
+      <span class="tag tag-slate">Behavioral Telemetry</span>
+    </div>
+  </div>
+
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">How can we bypass the UI constraints and high timing variance of off-the-shelf testing tools to capture millisecond-precise behavioral data without degrading the end-user experience?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Architected a scriptable desktop application featuring custom rendering logic to act as a standardized, responsive testing console with automated interaction logging.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">Successfully phased out legacy tools across active operations. Delivered a heavily <strong>optimized, high-fidelity user experience</strong> that simultaneously elevated participant engagement, eliminated confounding system noise, and unlocked <strong>absolute timing precision</strong>.</span>
+    </div>
+  </div>
+</div>
+
 <!-- SQL Database & Infrastructure Optimization -->
 <div class="project-card featured">
   <div class="card-main">
@@ -11,7 +51,6 @@ layout: splash
     
     <div class="card-badges">
       <span class="card-badge">💾 Database Engineering</span> 
-      <span class="card-badge">⚡ Systems Optimization</span>
     </div>
     
     <div class="card-body">
@@ -50,7 +89,6 @@ layout: splash
     
     <div class="card-badges">
       <span class="card-badge">⚙️ Data Pipelines (ETL)</span> 
-      <span class="card-badge">🔍 Quality Control Automation</span>
     </div>
     
     <div class="card-body">
@@ -82,41 +120,3 @@ layout: splash
   </div>
 </div>
 
-<!-- Custom Experimental Software & UX Research Instrumentation -->
-<div class="project-card featured">
-  <div class="card-main">
-    <div class="card-title">Custom Experimental Software & UX Research Instrumentation</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">🖥️ Software Engineering</span> 
-      <span class="card-badge">🔬 Human-Computer Interaction</span>
-    </div>
-    
-    <div class="card-body">
-      Designed, engineered, and deployed a proprietary software application for high-fidelity stimulus presentation, successfully replacing rigid and restrictive industry-standard tools. This initiative prioritized the participant experience by introducing an intuitive, low-friction interaction interface while radically maximizing data collection precision. By achieving absolute programmatic control over event-logging, rendering loops, and interactive triggers, the software systematically eradicated system latency and technical noise. This project highlights a strong cross-disciplinary skill set in Human-Computer Interaction (HCI), frontend experimental logic, and product-focused engineering built to capture flawless behavioral analytics.
-    </div>
-    
-    <div class="card-meta">
-      <span class="tag tag-teal">Python (Pygame)</span>
-      <span class="tag tag-teal">UX Instrumentation</span>
-      <span class="tag tag-teal">Interface Design</span>
-      <span class="tag tag-slate">Latency Optimization</span>
-      <span class="tag tag-slate">Behavioral Telemetry</span>
-    </div>
-  </div>
-
-  <div class="card-detail">
-    <div class="detail-row">
-      <span class="detail-label">The Question</span>
-      <span class="detail-value">How can we bypass the UI constraints and high timing variance of off-the-shelf testing tools to capture millisecond-precise behavioral data without degrading the end-user experience?</span>
-    </div>
-    <div class="detail-row">
-      <span class="detail-label">What I Did</span>
-      <span class="detail-value">Architected a scriptable desktop application featuring custom rendering logic to act as a standardized, responsive testing console with automated interaction logging.</span>
-    </div>
-    <div class="detail-row">
-      <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal">Successfully phased out legacy tools across active operations. Delivered a heavily <strong>optimized, high-fidelity user experience</strong> that simultaneously elevated participant engagement, eliminated confounding system noise, and unlocked <strong>absolute timing precision</strong>.</span>
-    </div>
-  </div>
-</div>
