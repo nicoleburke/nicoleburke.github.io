@@ -109,7 +109,7 @@
     font-size: 0.65rem;       
     font-weight: 600;         // Swapped from 700 to match tag weight
     padding: 0.2rem 0.6rem;   // Unified padding with .tag
-    border-radius: 4px;       // Swapped from 50px pill to match the crisp tag boxes
+    border-radius: 40px;       // Swapped from 50px pill to match the crisp tag boxes; old one was 4px
     
     // Structural normalization
     line-height: 1.2;         // Prevents emojis from expanding the badge height
