@@ -84,19 +84,34 @@
     gap: 1rem;
   }
 
+//   .card-badge {
+//     display: inline-block;
+//     align-self: flex-start;
+//     background: #f0f7f8;
+//     color: #2c4a52;
+//     font-size: 0.75rem;
+//     font-weight: 700;
+//     text-transform: uppercase;
+//     letter-spacing: 0.05em;
+//     padding: 0.35rem 0.75rem;
+//     border-radius: 50px;
+//     border: 1px solid rgba(44, 74, 82, 0.15);
+//   }
+
   .card-badge {
-    display: inline-block;
-    align-self: flex-start;
-    background: #f0f7f8;
-    color: #2c4a52;
-    font-size: 0.75rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    padding: 0.35rem 0.75rem;
-    border-radius: 50px;
-    border: 1px solid rgba(44, 74, 82, 0.15);
-  }
+  display: inline-block;
+  align-self: flex-start;
+  background: #f0f7f8;
+  color: #2c4a52;
+  font-size: 0.65rem;       // Dropped down for a tighter, compact profile
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;   // Slightly pulled in to keep it narrow
+  padding: 0.15rem 0.45rem; // Cut padding by more than half to shrink the bubble
+  border-radius: 50px;
+  border: 1px solid rgba(44, 74, 82, 0.15);
+  line-height: 1;           // Forces the container to wrap tight around the text/emoji
+}
 
   .card-title {
     // font-size: 1.4rem;
