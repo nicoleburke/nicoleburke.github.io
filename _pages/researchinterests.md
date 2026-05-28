@@ -5,30 +5,165 @@ layout: splash
 author_profile: false 
 ---
 ## Research Projects 
+<!-- Strong Analytics Project -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-title">Large-Scale Causal Inference & Market Strategy Evaluation</div>
+    
+    <div class="card-badges">
+      <span class="card-badge"> 📊 Industry Analytics</span>
+    </div>
+    
+    <div class="card-body">
+      Designed and executed a large-scale quasi-experimental evaluation framework to isolate the true behavioral impact of a major market budget reallocation. By deploying advanced statistical matching methodologies to eliminate geographic and demographic selection bias, this initiative replaced speculative performance metrics with definitive causal proof. The analysis successfully shifted the client's commercial strategy from an underperforming baseline toward data-backed resource optimization, demonstrating a powerful ability to translate complex behavioral modeling into high-stakes business consulting.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">Propensity Score Matching</span>
+      <span class="tag tag-teal">Quasi-Experimental Design</span>
+      <span class="tag tag-teal">Regression Modeling</span>
+      <span class="tag tag-slate">R (ggplot2)</span>
+      <span class="tag tag-slate">Python (matplotlib)</span>
+    </div>
+  </div>
 
-1. Network Diversity relates to racial bias. 
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">Did the distributed market budget strategy yield a statistically significant, positive ROI on customer behavior and core performance metrics?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Evaluated observational data by performing propensity score matching to construct an optimized control group, ran multi-variable regressions, and built production-grade data visualizations to deliver intuitive data narratives.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">Audited performance footprint across <strong>500+ distinct locations</strong>. Quantifiably isolated a <strong>net-neutral KPI impact</strong> from the budget plan, equipping executive leadership with the rigorous empirical evidence needed to halt capital drain and pivot strategic budget allocation.</span>
+    </div>
+  </div>
+</div>
 
-2. Network Size relates to visual perspective-taking. 
+<!-- CMI Benchmark Analysis -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-title">Python Architecture Benchmarking & Strategic Product Roadmap</div>
+    
+    <div class="card-badges">
+      <span class="card-badge"> 📊 Industry Analytics</span> 
+    </div>
+    
+    <div class="card-body">
+      Directed cross-functional data strategy and software infrastructure lifecycle management by leading an analytics pod to audit internal developer tooling against market-dominant software. This initiative bridged the gap between pure data engineering and product strategy, ensuring internal algorithmic assets directly optimize research velocity and business scalability. By translating complex software telemetry and performance matrices into a unified technical vision, this work secured full strategic alignment across engineering, product design, and executive ecosystems.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">Cross-Functional Leadership</span>
+      <span class="tag tag-teal">Python Infrastructure</span>
+      <span class="tag tag-teal">Competitive Analysis</span>
+      <span class="tag tag-slate">Technical Roadmapping</span>
+      <span class="tag tag-slate">Executive Stakeholder Mgmt</span>
+    </div>
+  </div>
 
-3. Survey development 
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">How does our proprietary Python package scale, perform, and deliver value compared to industry-standard tools, and where should we prioritize engineering resources?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Led a matrixed squad of 2 data analysts in deep collaboration with the Product team to engineer an empirical validation framework, mapping technical benchmarks directly to user experience and operational efficiency.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">Managed a <strong>3-person cross-functional initiative</strong> to deliver a comprehensive feature audit and efficiency analysis. Translated technical data into high-visibility strategic recommendations presented directly to <strong>Research and Executive Leadership</strong>, defining the product roadmap and optimizing internal engineering resource allocation.</span>
+    </div>
+  </div>
+</div>
 
-4. CMI benchmarking analysis. 
+<!-- Network Diversity realtes to racial bias -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-title">Network Diversity Relates to Racial Bias</div>
+    
+    <div class="card-badges">
+      <span class="card-badge">📚 Academic Research</span> 
+    </div>
+    
+    <div class="card-body">
+      Demonstrated how micro-level social structures interact with macro-level environmental demographics to shape systemic cognitive frameworks and biases. By modeling nested behavioral and spatial data, this research reveals that human attitudes cannot be predicted by geographic diversity alone—instead, immediate social networks act as a critical moderator. This project showcases an advanced capability to analyze complex, multi-layered human ecosystems, translating abstract behavioral concepts into rigorous, data-driven insights directly applicable to workplace culture and user demographics.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">Interaction Effects</span>
+      <span class="tag tag-teal">Multilevel Modeling</span>
+      <span class="tag tag-teal">Spatial Data Analysis</span>
+      <span class="tag tag-slate">R / Python</span>
+      <span class="tag tag-slate">Behavioral Coding</span>
+    </div>
+  </div>
 
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">Does children's network and neighborhood diversity relate to their racial bias and how they conceptualize systemic inequalities?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Conducted a multi-method behavioral study blending geographic demographic mapping, custom survey design, and structured behavioral tracking to map nested social layers.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">For White children in small networks only, as their macro-neighborhood diversity increased, their cognitive explanations for inequality shifted significantly depending on immediate social network density. This confirmed a statistically significant <strong>interaction effect</strong>, proving that environmental diversity alone is insufficient to shift social cognitions without deliberate micro-network structural exposure.</span>
+    </div>
+  </div>
+</div>
 
+<!-- Network Size and PT -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-title">Network Scale Predicts Perspective-Taking</div>
+    
+    <div class="card-badges">
+      <span class="card-badge">📚 Academic Research</span> 
+    </div>
+    
+    <div class="card-body">
+      Investigated how the scale of an immediate social ecosystem drives the development of core communication and perspective-taking (PT) competencies. By cross-referencing custom social network metrics with live, high-friction behavioral tracking tasks, this study empirically validates the <strong>Social Brain Hypothesis</strong>. The findings demonstrate that navigating larger network structures conditions individuals to process high-cognitive-load communication and accurately predict a partner's blind spots or informational gaps. This project highlights a highly transferable expertise in auditing communication friction, mapping cognitive load, and evaluating how environmental network structures shape user empathy and collaboration.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-teal">Interaction Modeling</span>
+      <span class="tag tag-teal">Behavioral Coding</span>
+      <span class="tag tag-teal">Survey Methodology</span>
+      <span class="tag tag-slate">R / Regression</span>
+      <span class="tag tag-slate">UX/Cognitive Metrics</span>
+    </div>
+  </div>
+
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">Does the sheer size of an individual's regular social network predict their performance on complex, real-time perspective-taking and communication tasks?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Designed a multi-method research framework combining structured survey instrumentation (Social Network Questionnaire) with a rigorous, video-coded behavioral task evaluating hidden informational perspectives.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">Identified a statistically significant <strong>interaction effect (ß = 0.22, p &lt; 0.05)</strong> revealing that larger network sizes directly drive success on the highest-friction communication trials (the "Does Not See" condition). This proves that exposure to network scale actively mitigates cognitive friction when mapping informational asymmetries—a foundational layer for engineering empathetic user experiences and optimized team networks.</span>
+    </div>
+  </div>
+</div>
 
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-title">Academic Publications</div>
     
     <div class="card-badges">
-      <span class="card-badge">🕸️ Social Network Analysis</span> 
-      <span class="card-badge">📝 Survey Research</span>
+      <span class="card-badge">📚 Academic Research</span> 
     </div>
-    
-    <div class="card-body">
-      Reduced manual text processing time by <strong>50% (4 to 2 months)</strong> by building an <strong>NLP classification pipeline</strong> using the <strong>ChatGPT API</strong>, achieving 77% model accuracy on a language classification task. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
-    </div>
-
     <div class="card-publications">
       <h4 class="pub-section-title">Selected Papers</h4>
       <ul class="pub-list">
@@ -69,31 +204,6 @@ author_profile: false
   </div>
 </div>
 
-
-
-
-
-
-
-
-### Publications
-**Burke, N.**, Rizzo, M.T., Britton, T., & Rhodes, M. (2023). Does racial diversity affect White 
-children’s explanations for racial inequalities? Depends on where they live and how their social world is structured. Developmental Psychology. [[paper] (https://psycnet.apa.org/manuscript/2024-14484-001.pdf)]
-
-**Burke N.**, Brezack, N., Meyer, M., & Woodward, A., (2023). Children’s social network size is related to their perspective-taking skills. Frontiers in Developmental Psychology. 1:1221056. doi: 10.3389/fdpys.2023.1221056 [[paper]](https://www.frontiersin.org/articles/10.3389/fdpys.2023.1221056/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE)
-
-Arnold, S., **Burke, N.**, Leshin, R., & Rhodes., M. (2023). Infants’ visual attention 
-to own- and other-race faces is moderated by experience with people of different races in 
-their daily lives. Journal of Experimental Psychology: General. [[paper]](https://psycnet.apa.org/manuscript/2024-18941-001.pdf)
-
-**Burke, N.**, Brezack, N., & Woodward, A. (2022). Children’s social networks in developmental 
-psychology: A network approach to capture and describe early social environments. Frontiers in Psychology, 13:1009422. doi:10.3389/fpsyg.2022.1009422 [[paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1009422/full)] [[OSF](https://osf.io/3hc7n/)]
-
-Okocha, A., **Burke, N.**, & Lew-Williams, C. (2024). Infants and toddlers in the United States with 
-more close relationships have larger vocabularies. Journal of Experimental Psychology: General. [[paper] (https://psycnet.apa.org/manuscript/2024-97079-001.pdf)]
-
-Colomer, M., Hwang, H.G., **Burke, N.**, & Woodward, A. (2024). Development of infants’ 
-preferential looking toward native language speakers across distinct social contexts. Developmental Psychology. [[paper] (https://psycnet.apa.org/manuscript/2024-26047-001.pdf)]
 
 
  
