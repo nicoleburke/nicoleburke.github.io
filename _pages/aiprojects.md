@@ -88,8 +88,8 @@ layout: splash
     
     <div class="card-meta">
       <span class="tag tag-blue">R Shiny App</span>
-      <span class="tag tag-teal">AI Prototype</span>
-      <span class="tag tag-teal">Engineering</span>
+      <span class="tag tag-slate">AI Prototype</span>
+      <span class="tag tag-slate">Engineering</span>
     </div>
   </div>
 
@@ -113,7 +113,6 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-badge">🤝 Contract Work</div>
-    <div class="card-badge">🤖 AI Evluation Dataset Creator</div>
     <div class="card-title">AI Evaluation Dataset Question Developer</div>
     
     <div class="card-body">
@@ -121,9 +120,8 @@ layout: splash
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">AI Evaluation Dataset</span>
-      <span class="tag tag-teal">Prompt Engineering</span>
-      <span class="tag tag-teal">Engineering</span>
+      <span class="tag tag-slate">AI Evaluation Dataset</span>
+      <span class="tag tag-slate">Prompt Engineering</span>
     </div>
   </div>
 
