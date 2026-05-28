@@ -15,7 +15,7 @@ author_profile: false
     </div>
     
     <div class="card-body">
-      Designed and executed a large-scale quasi-experimental evaluation framework to isolate the true behavioral impact of a major market budget reallocation. By deploying advanced statistical matching methodologies to eliminate geographic and demographic selection bias, this initiative replaced speculative performance metrics with definitive causal proof. The analysis successfully shifted the client's commercial strategy from an underperforming baseline toward data-backed resource optimization, demonstrating a powerful ability to translate complex behavioral modeling into high-stakes business consulting.
+    Informed client strategy for budget plan by evaluating the market budget plan on customer behavior across 500 locations. Determined the budget plan did not positively affect KPIs by performing propensity score matching and regression analyses in R, and visualizing findings in ggplot2 and matplotlib to deliver actionable insights to client.
     </div>
     
     <div class="card-meta">
@@ -23,7 +23,6 @@ author_profile: false
       <span class="tag tag-teal">Quasi-Experimental Design</span>
       <span class="tag tag-teal">Regression Modeling</span>
       <span class="tag tag-slate">R (ggplot2)</span>
-      <span class="tag tag-slate">Python (matplotlib)</span>
     </div>
   </div>
 
@@ -53,14 +52,12 @@ author_profile: false
     </div>
     
     <div class="card-body">
-      Directed cross-functional data strategy and software infrastructure lifecycle management by leading an analytics pod to audit internal developer tooling against market-dominant software. This initiative bridged the gap between pure data engineering and product strategy, ensuring internal algorithmic assets directly optimize research velocity and business scalability. By translating complex software telemetry and performance matrices into a unified technical vision, this work secured full strategic alignment across engineering, product design, and executive ecosystems.
+      Informed product strategy and technical roadmap by leading a team of 2 data analysts in collaboration with the Product team to benchmark an internal Python package against industry-standard software, and presenting findings to Research and Executive Leadership.
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">Cross-Functional Leadership</span>
-      <span class="tag tag-teal">Python Infrastructure</span>
-      <span class="tag tag-teal">Competitive Analysis</span>
-      <span class="tag tag-slate">Technical Roadmapping</span>
+      <span class="tag tag-blue">Python</span>
+      <span class="tag tag-teal">Technical Benchmarking</span>
       <span class="tag tag-slate">Executive Stakeholder Mgmt</span>
     </div>
   </div>

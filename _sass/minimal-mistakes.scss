@@ -99,19 +99,22 @@
 //   }
 
   .card-badge {
-  display: inline-block;
-  align-self: flex-start;
-  background: #f0f7f8;
-  color: #2c4a52;
-  font-size: 0.65rem;       // Dropped down for a tighter, compact profile
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;   // Slightly pulled in to keep it narrow
-  padding: 0.15rem 0.45rem; // Cut padding by more than half to shrink the bubble
-  border-radius: 50px;
-  border: 1px solid rgba(44, 74, 82, 0.15);
-  line-height: 1;           // Forces the container to wrap tight around the text/emoji
-}
+    display: inline-block;
+    align-self: flex-start;
+    background: #f0f7f8;
+    color: #2c4a52;
+    border: 1px solid rgba(44, 74, 82, 0.15);
+    
+    // Exact sizing matches from your .tag class
+    font-size: 0.65rem;       
+    font-weight: 600;         // Swapped from 700 to match tag weight
+    padding: 0.2rem 0.6rem;   // Unified padding with .tag
+    border-radius: 4px;       // Swapped from 50px pill to match the crisp tag boxes
+    
+    // Structural normalization
+    line-height: 1.2;         // Prevents emojis from expanding the badge height
+    vertical-align: middle;
+  }
 
   .card-title {
     // font-size: 1.4rem;
