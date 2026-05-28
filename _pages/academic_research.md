@@ -11,14 +11,14 @@ layout: splash
     <div class="card-title">Network Diversity Relates to Racial Bias</div>
     
     <div class="card-body">
-      Demonstrated how micro-level social structures interact with macro-level environmental demographics to shape systemic cognitive frameworks and biases. By modeling nested behavioral and spatial data, this research reveals that human attitudes cannot be predicted by geographic diversity alone—instead, immediate social networks act as a critical moderator. This project showcases an advanced capability to analyze complex, multi-layered human ecosystems, translating abstract behavioral concepts into rigorous, data-driven insights directly applicable to workplace culture and user demographics.
+      Demonstrated how micro-level social structures interact with macro-level environmental demographics to shape systemic cognitive frameworks and biases. This research reveals that human attitudes cannot be predicted by geographic diversity alone; social networks provide a fine-grained analysis that highlights the importance of exploring enviornments at both the micro- and macro-levels.This project showcases an advanced capability to analyze complex, multi-layered human ecosystems, translating abstract behavioral concepts into rigorous, data-driven insights directly applicable to workplace culture and user demographics.
     </div>
     
     <div class="card-meta">
       <span class="tag tag-blue">R</span>
       <span class="tag tag-teal">Social Network Analysis</span>
-      <span class="tag tag-teal">Survey Research</span>
-      <span class="tag tag-teal">Qualtrics</span>
+      <span class="tag tag-indigo">Survey Research</span>
+      <span class="tag tag-amber">Qualtrics</span>
       <span class="tag tag-slate">Regression</span>
     </div>
   </div>
@@ -78,10 +78,7 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-title">Academic Publications</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">📚 Academic Research</span> 
-    </div>
+  
     <div class="card-publications">
       <h4 class="pub-section-title">Selected Papers</h4>
       <ul class="pub-list">

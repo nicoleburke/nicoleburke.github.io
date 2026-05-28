@@ -160,9 +160,21 @@
     }
 
     &.tag-blue {
-      background: #459ef7;
+      background: #d0e4f8;
       color: #495057;
     //   border: 1px solid #e9ecef;
+    }
+
+    &.tag-indigo {
+        background: #e0e7ff;
+        color: #3730a3;
+        border: 1px solid rgba(55, 48, 163, 0.15);
+    }
+
+    &.tag-amber {
+        background: #fef3c7;
+        color: #92400E;
+        border: 1px solid rgba(146, 64, 14, 0.15);
     }
   }
 
