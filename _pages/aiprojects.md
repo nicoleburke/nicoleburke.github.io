@@ -7,9 +7,8 @@ layout: splash
 <!-- NYU NLP PROJECT -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
     <div class="card-badge">🔬 Professional Work</div> 
-    <div class="card-badge">🗣️ NLP</div>
+    <div class="card-title">NLP Classification Pipeline using ChatGPT API</div>
     
     <div class="card-body">
       Reduced manual text processing time by <strong>50% (4 to 2 months)</strong> by building an <strong>NLP classification pipeline</strong> using the <strong>ChatGPT API</strong>, achieving 77% model accuracy on a language classification task. This project directly addresses whether AI can reliably categorize nuanced human language at scale, replacing months of manual coding with automated pipelines.
@@ -17,9 +16,9 @@ layout: splash
     
     <div class="card-meta">
       <span class="tag tag-blue">R</span>
-      <span class="tag tag-teal">NLP</span>
-      <span class="tag tag-teal">chatGPT API</span>
-      <span class="tag tag-teal">Data Pipelines</span>
+      <span class="tag tag-slate">NLP</span>
+      <span class="tag tag-slate">chatGPT API</span>
+      <span class="tag tag-slate">Data Pipelines</span>
     </div>
   </div>
 
@@ -43,8 +42,7 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-badge">💡 Side Project</div>
-    <div class="card-badge">🗣️ NLP</div>
-    <div class="card-title">Side Project: Sentiment Analysis on open-ended employee survey responses</div>
+    <div class="card-title">Sentiment Analysis on open-ended employee survey responses</div>
     
     <div class="card-body">
       Built a sentiment analysis pipeline using an open-source large language model to analyze a dataset containing 400 open-ended employee survey responses. I’ve been building meaningful relationships in the People Analytics space and a common question across teams and industries is the desire to utilize open-ended survey responses on employee surveys. Open-ended survey responses contain the richest qualitative signal in any employee dataset, but hand-coding thousands of responses is prohibitively slow. Further, datasets can vary in size, which means fine-tuning an NLP model is not an option. The challenge is finding something that can work out of box to automate coding sentiment.
@@ -52,9 +50,9 @@ layout: splash
     
     <div class="card-meta">
       <span class="tag tag-blue">Python</span>
-      <span class="tag tag-teal">Open Source LLMs</span>
-      <span class="tag tag-teal">NLP</span>
-      <span class="tag tag-teal">Data Pipelines</span>
+      <span class="tag tag-slate">Open Source LLMs</span>
+      <span class="tag tag-slate">NLP</span>
+      <span class="tag tag-slate">Data Pipelines</span>
     </div>
   </div>
 
@@ -78,8 +76,13 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
     <div class="card-badge">💡 Side Project</div>
-    <div class="card-badge">🤖 AI Prototype</div>
-    <div class="card-title">Side Project: Automated Voice-Part Playlist Builder (built by AI)</div>
+    <div class="card-title">Automated Voice-Part Playlist Builder (built by AI)</div>
+
+    <br>
+      <a href="https://nicoleburke.shinyapps.io/choir_app_r/" target="_blank" style="display: inline-flex; align-items: center; color: #2c4a52; font-weight: 600; text-decoration: none; margin-top: 1rem; border-bottom: 2px solid #c5ecf2; padding-bottom: 2px; transition: color 0.2s ease;" onmouseover="this.style.color='#4a7c8a'; this.style.borderBottomColor='#2c4a52'" onmouseout="this.style.color='#2c4a52'; this.style.borderBottomColor='#c5ecf2'">
+        Launch Live App ↗
+      </a>
+    </div>
     
     <div class="card-body">
       Built a customized playlist with .mp4 files for my choir. We receive our practice tracks as individual .mp4 files on a shared Google Drive folder for each voice part. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the chior. This will make it easier for members to practice and we can track choir member usage via the app. 
