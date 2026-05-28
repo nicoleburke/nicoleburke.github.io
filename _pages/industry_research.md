@@ -3,25 +3,23 @@ title: ""
 permalink: /industry_research/
 layout: splash
 ---
-## 
+## Industry Projects
 <!-- Strong Analytics Project -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-title">Large-Scale Causal Inference & Market Strategy Evaluation</div>
-    
-    <div class="card-badges">
-      <span class="card-badge"> 📊 Industry Analytics</span>
-    </div>
+  <div class="card-badge">📊 Industry Analytics</div> 
+  <div class="card-title">Large-Scale Causal Inference & Market Strategy Evaluation</div>
     
     <div class="card-body">
     Informed client strategy for budget plan by evaluating the market budget plan on customer behavior across 500 locations. Determined the budget plan did not positively affect KPIs by performing propensity score matching and regression analyses in R, and visualizing findings in ggplot2 and matplotlib to deliver actionable insights to client.
     </div>
     
     <div class="card-meta">
+      <span class="tag tag-blue">R</span>
+      <span class="tag tag-teal">Data Visualization (ggplot2)</span>
       <span class="tag tag-teal">Propensity Score Matching</span>
       <span class="tag tag-teal">Quasi-Experimental Design</span>
-      <span class="tag tag-teal">Regression Modeling</span>
-      <span class="tag tag-slate">R (ggplot2)</span>
+      <span class="tag tag-teal">Regression</span>
     </div>
   </div>
 
@@ -44,12 +42,9 @@ layout: splash
 <!-- CMI Benchmark Analysis -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-title">Python Architecture Benchmarking & Strategic Product Roadmap</div>
-    
-    <div class="card-badges">
-      <span class="card-badge"> 📊 Industry Analytics</span> 
-    </div>
-    
+  <div class="card-badge">📊 Industry Analytics</div> 
+    <div class="card-title">Product Benchmarking Analytics Project</div>
+  
     <div class="card-body">
       Informed product strategy and technical roadmap by leading a team of 2 data analysts in collaboration with the Product team to benchmark an internal Python package against industry-standard software, and presenting findings to Research and Executive Leadership.
     </div>
@@ -57,7 +52,7 @@ layout: splash
     <div class="card-meta">
       <span class="tag tag-blue">Python</span>
       <span class="tag tag-teal">Technical Benchmarking</span>
-      <span class="tag tag-slate">Executive Stakeholder Mgmt</span>
+      <span class="tag tag-teal">Cross-Functional Collaboration</span>
     </div>
   </div>
 

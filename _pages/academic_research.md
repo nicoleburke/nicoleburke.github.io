@@ -1,28 +1,25 @@
 ---
 title: ""
-permalink: /academic_research/
+permalink: /acdemic_research/
 layout: splash
 ---
 ## 
 <!-- Network Diversity realtes to racial bias -->
 <div class="project-card featured">
   <div class="card-main">
+    <div class="card-badge">📚 Academic Research</div> 
     <div class="card-title">Network Diversity Relates to Racial Bias</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">📚 Academic Research</span> 
-    </div>
     
     <div class="card-body">
       Demonstrated how micro-level social structures interact with macro-level environmental demographics to shape systemic cognitive frameworks and biases. By modeling nested behavioral and spatial data, this research reveals that human attitudes cannot be predicted by geographic diversity alone—instead, immediate social networks act as a critical moderator. This project showcases an advanced capability to analyze complex, multi-layered human ecosystems, translating abstract behavioral concepts into rigorous, data-driven insights directly applicable to workplace culture and user demographics.
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">Interaction Effects</span>
-      <span class="tag tag-teal">Multilevel Modeling</span>
-      <span class="tag tag-teal">Spatial Data Analysis</span>
-      <span class="tag tag-slate">R / Python</span>
-      <span class="tag tag-slate">Behavioral Coding</span>
+      <span class="tag tag-blue">R</span>
+      <span class="tag tag-teal">Social Network Analysis</span>
+      <span class="tag tag-teal">Survey Research</span>
+      <span class="tag tag-teal">Qualtrics</span>
+      <span class="tag tag-slate">Regression</span>
     </div>
   </div>
 
@@ -45,21 +42,19 @@ layout: splash
 <!-- Network Size and PT -->
 <div class="project-card featured">
   <div class="card-main">
-    <div class="card-title">Network Scale Predicts Perspective-Taking</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">📚 Academic Research</span> 
-    </div>
+  <div class="card-badge">📚 Academic Research</div>
+  <div class="card-title">Network Scale Predicts Perspective-Taking</div>
     
     <div class="card-body">
       Investigated how the scale of an immediate social ecosystem drives the development of core communication and perspective-taking (PT) competencies. By cross-referencing custom social network metrics with live, high-friction behavioral tracking tasks, this study empirically validates the <strong>Social Brain Hypothesis</strong>. The findings demonstrate that navigating larger network structures conditions individuals to process high-cognitive-load communication and accurately predict a partner's blind spots or informational gaps. This project highlights a highly transferable expertise in auditing communication friction, mapping cognitive load, and evaluating how environmental network structures shape user empathy and collaboration.
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">Interaction Modeling</span>
-      <span class="tag tag-teal">Behavioral Coding</span>
-      <span class="tag tag-teal">Survey Methodology</span>
-      <span class="tag tag-slate">R / Regression</span>
+      <span class="tag tag-blue">R</span>
+      <span class="tag tag-teal">Social Network Analysis</span>
+      <span class="tag tag-teal">Survey Research</span>
+      <span class="tag tag-teal">Experimentation</span>
+      <span class="tag tag-slate">Regression</span>
       <span class="tag tag-slate">UX/Cognitive Metrics</span>
     </div>
   </div>
