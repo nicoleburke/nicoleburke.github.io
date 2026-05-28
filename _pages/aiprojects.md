@@ -80,14 +80,11 @@ layout: splash
     
     <div class="card-body">
       Built a customized playlist with .mp4 files for my choir. We receive our practice tracks as individual .mp4 files on a shared Google Drive folder for each voice part. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the chior. This will make it easier for members to practice and we can track choir member usage via the app. 
-
-      https://nicoleburke.shinyapps.io/choir_app_r/
-    </div>
-
-    <br>
+        <br>
       <a href="https://nicoleburke.shinyapps.io/choir_app_r/" target="_blank" style="display: inline-flex; align-items: center; color: #2c4a52; font-weight: 600; text-decoration: none; margin-top: 1rem; border-bottom: 2px solid #c5ecf2; padding-bottom: 2px; transition: color 0.2s ease;" onmouseover="this.style.color='#4a7c8a'; this.style.borderBottomColor='#2c4a52'" onmouseout="this.style.color='#2c4a52'; this.style.borderBottomColor='#c5ecf2'">
         Launch Live App ↗
       </a>
+    </div>
     </div>
     
     <div class="card-meta">

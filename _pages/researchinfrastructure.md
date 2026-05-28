@@ -18,6 +18,12 @@ layout: splash
 
       It is currently being used at our offices in New York, as well as in Stellenbosch, South Africa and São Paulo, Brazil. 
     </div>
+
+        <br>
+      <a href="https://github.com/childmindresearch/graphomotor_cmi" target="_blank" style="display: inline-flex; align-items: center; color: #2c4a52; font-weight: 600; text-decoration: none; margin-top: 1rem; border-bottom: 2px solid #c5ecf2; padding-bottom: 2px; transition: color 0.2s ease;" onmouseover="this.style.color='#4a7c8a'; this.style.borderBottomColor='#2c4a52'" onmouseout="this.style.color='#2c4a52'; this.style.borderBottomColor='#c5ecf2'">
+        Github Repository ↗
+      </a>
+    </div>
     
     <div class="card-meta">
       <span class="tag tag-blue">Python (Pygame)</span>
