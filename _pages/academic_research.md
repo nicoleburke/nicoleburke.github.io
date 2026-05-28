@@ -30,7 +30,7 @@ layout: splash
     </div>
     <div class="detail-row">
       <span class="detail-label">What I Did</span>
-      <span class="detail-value">Conducted a multi-method behavioral study blending geographic demographic mapping, custom survey design, and structured behavioral tracking to map nested social layers.</span>
+      <span class="detail-value">Conducted a multi-method behavioral study blending custom survey design, extracing US Census data, and experimental behavioral data.</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
@@ -43,19 +43,17 @@ layout: splash
 <div class="project-card featured">
   <div class="card-main">
   <div class="card-badge">📚 Academic Research</div>
-  <div class="card-title">Network Scale Predicts Perspective-Taking</div>
+  <div class="card-title">Social Network Size Predicts Perspective-Taking</div>
     
     <div class="card-body">
-      Investigated how the scale of an immediate social ecosystem drives the development of core communication and perspective-taking (PT) competencies. By cross-referencing custom social network metrics with live, high-friction behavioral tracking tasks, this study empirically validates the <strong>Social Brain Hypothesis</strong>. The findings demonstrate that navigating larger network structures conditions individuals to process high-cognitive-load communication and accurately predict a partner's blind spots or informational gaps. This project highlights a highly transferable expertise in auditing communication friction, mapping cognitive load, and evaluating how environmental network structures shape user empathy and collaboration.
+      Investigated how social network properties, in particular social network size, relates to visual perspective-taking (PT) capabilities. We found that children in larger social networks demonstrated superior PT skills, which validates the <storng>Social Brain Hypothesis</strong>. While these findings are correlational and it is impossible to determine a causal effect, they suggest that the enviornment does play a role in shaping children's early socio-cognitive skills.
     </div>
     
     <div class="card-meta">
       <span class="tag tag-blue">R</span>
       <span class="tag tag-teal">Social Network Analysis</span>
       <span class="tag tag-teal">Survey Research</span>
-      <span class="tag tag-teal">Experimentation</span>
       <span class="tag tag-slate">Regression</span>
-      <span class="tag tag-slate">UX/Cognitive Metrics</span>
     </div>
   </div>
 
