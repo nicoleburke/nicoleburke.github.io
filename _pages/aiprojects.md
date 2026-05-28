@@ -79,12 +79,11 @@ layout: splash
     <div class="card-title">Automated Voice-Part Playlist Builder (built by AI)</div>
     
     <div class="card-body">
-      Built a customized playlist with .mp4 files for my choir. We receive our practice tracks as individual .mp4 files on a shared Google Drive folder for each voice part. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the chior. This will make it easier for members to practice and we can track choir member usage via the app. 
-        <br>
-      <a href="https://nicoleburke.shinyapps.io/choir_app_r/" target="_blank" style="display: inline-flex; align-items: center; color: #2c4a52; font-weight: 600; text-decoration: none; margin-top: 1rem; border-bottom: 2px solid #c5ecf2; padding-bottom: 2px; transition: color 0.2s ease;" onmouseover="this.style.color='#4a7c8a'; this.style.borderBottomColor='#2c4a52'" onmouseout="this.style.color='#2c4a52'; this.style.borderBottomColor='#c5ecf2'">
+      Built a customized playlist with .mp4 files for my choir. We receive our practice tracks as individual .mp4 files on a shared Google Drive folder for each voice part. I saw an opportunity to use AI to build a playlist that would take the .mp4 files and make a Playlist by voice-part for the choir. This will make it easier for members to practice and we can track choir member usage via the app. 
+      <br><br>
+      <a href="https://nicoleburke.shinyapps.io/choir_app_r/" target="_blank" style="display: inline-flex; align-items: center; color: #2c4a52; font-weight: 600; text-decoration: none; border-bottom: 2px solid #c5ecf2; padding-bottom: 2px; transition: color 0.2s ease;" onmouseover="this.style.color='#4a7c8a'; this.style.borderBottomColor='#2c4a52'" onmouseout="this.style.color='#2c4a52'; this.style.borderBottomColor='#c5ecf2'">
         Launch Live App ↗
       </a>
-    </div>
     </div>
     
     <div class="card-meta">
@@ -97,15 +96,15 @@ layout: splash
   <div class="card-detail">
     <div class="detail-row">
       <span class="detail-label">The Question</span>
-      <span class="detail-value">Can AI generate a working prototype of a customized playlist for our choir, so members do not need to manually dowland and orgainze indvidual files each week?</span>
+      <span class="detail-value">Can AI generate a working prototype of a customized playlist for our choir, so members do not need to manually download and organize individual files each week?</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">What I Did</span>
-      <span class="detail-value">Used Claude to generate a R Shiny App to make prototype for my choir director. The entire project took ~30mins. The prototype allowed me to share a working model to receive feedback.</span>
+      <span class="detail-value">Used Claude to generate an R Shiny App to make a prototype for my choir director. The entire project took ~30mins. The prototype allowed me to share a working model to receive feedback.</span>
     </div>
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal">The tool makes it easier for choir members to practice. We saw an increase in practice through self-reported measures, which we could validate by tracking the useage of the application.</span>
+      <span class="detail-value highlight-teal">The tool makes it easier for choir members to practice. We saw an increase in practice through self-reported measures, which we could validate by tracking the usage of the application.</span>
     </div>
   </div>
 </div>
