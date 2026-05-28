@@ -20,6 +20,7 @@ layout: splash
       <span class="tag tag-indigo">Survey Research</span>
       <span class="tag tag-amber">Qualtrics</span>
       <span class="tag tag-slate">Regression</span>
+      <span class="tag tag-terracotta">test</span>
     </div>
   </div>
 
