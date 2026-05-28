@@ -20,11 +20,9 @@ layout: splash
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">Python (Pygame)</span>
+      <span class="tag tag-blue">Python (Pygame)</span>
       <span class="tag tag-teal">UX Instrumentation</span>
       <span class="tag tag-teal">Interface Design</span>
-      <span class="tag tag-slate">Latency Optimization</span>
-      <span class="tag tag-slate">Behavioral Telemetry</span>
     </div>
   </div>
 
@@ -58,11 +56,10 @@ layout: splash
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">SQL (MariaDB)</span>
-      <span class="tag tag-teal">Schema Design</span>
+      <span class="tag tag-blue">SQL</span>
       <span class="tag tag-teal">Data Integration</span>
-      <span class="tag tag-slate">Data Governance</span>
-      <span class="tag tag-slate">Infrastructure Scaling</span>
+      <span class="tag tag-teal">Data Governance</span>
+      <span class="tag tag-teal">Infrastructure Scaling</span>
     </div>
   </div>
 
@@ -96,11 +93,9 @@ layout: splash
     </div>
     
     <div class="card-meta">
-      <span class="tag tag-teal">Python (ETL)</span>
-      <span class="tag tag-teal">Automated QC</span>
-      <span class="tag tag-teal">Data Validation</span>
-      <span class="tag tag-slate">Telemetry Processing</span>
-      <span class="tag tag-slate">Anomaly Detection</span>
+      <span class="tag tag-blue">Python</span>
+      <span class="tag tag-teal">ETL Pipeline</span>
+      <span class="tag tag-teal">Data Qualtity Control</span>
     </div>
   </div>
 

@@ -1,9 +1,9 @@
 ---
 title: ""
-permalink: /acdemic_research/
+permalink: /academic_research/
 layout: splash
 ---
-## 
+## Select Academic Research
 <!-- Network Diversity realtes to racial bias -->
 <div class="project-card featured">
   <div class="card-main">
