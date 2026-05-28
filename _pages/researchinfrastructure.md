@@ -7,11 +7,8 @@ layout: splash
 <!-- Custom Experimental Software & UX Research Instrumentation -->
 <div class="project-card featured">
   <div class="card-main">
+    <div class="card-badge">🖥️ Software Engineering</div> 
     <div class="card-title">Custom Experimental Software for Research</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">🖥️ Software Engineering</span> 
-    </div>
     
     <div class="card-body">
       Designed, created, and deployed custom-built software for stimulus presentation, replacing industry-standard tool. This software improved the industry-standard software in two important ways. 1) It is easier to implement across computers and research sites. 2) It is more flexible and allows for easier integration of event markers into the protocol, which reduces post-processing analysis time. It is currently being used at our offices in New York, as well as in Stellenbosch, South Africa and São Paulo, Brazil. 
@@ -47,11 +44,8 @@ layout: splash
 <!-- SQL Database & Infrastructure Optimization -->
 <div class="project-card featured">
   <div class="card-main">
+  <div class="card-badge">💾 Database Engineering</div> 
     <div class="card-title">Centralized SQL Data Architecture & Systems Optimization</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">💾 Database Engineering</span> 
-    </div>
     
     <div class="card-body">
       Engineered an enterprise-grade data infrastructure solution to dismantle operational data silos across multi-stream research initiatives. By architecting and deploying a centralized relational database system, this project unified fragmented data environments into a secure, high-throughput analytics engine. The optimized schema design eliminated manual, error-prone data aggregation workflows and established a clean, single source of truth. This initiative showcases a strong mastery of data architecture, database administration, and operational systems design aimed at scaling research velocity and enabling rapid, data-driven decisions.
@@ -84,12 +78,9 @@ layout: splash
 <!-- Automated ETL Pipeline & Behavioral Data Governance -->
 <div class="project-card featured">
   <div class="card-main">
+  <div class="card-badge">⚙️ Data Pipelines (ETL)</div> 
     <div class="card-title">Automated ETL Pipeline & Behavioral Data Governance System</div>
-    
-    <div class="card-badges">
-      <span class="card-badge">⚙️ Data Pipelines (ETL)</span> 
-    </div>
-    
+        
     <div class="card-body">
       Architected and deployed an automated data engineering pipeline in Python to transform unstructured, high-dimensional human-behavior data into analytics-ready, standardized datasets. By implementing programmatic validation checkpoints directly into the data ingestion layer, this pipeline eliminated the latency of retrospective data auditing. The system programmatically flags operational anomalies and experimental protocol drifts as they happen, ensuring absolute data integrity before it reaches down-stream analysis. This project exemplifies a strong capability in Research Ops and Data Engineering—building the foundational software layers that guarantee clean, dependable behavioral telemetry at scale.
     </div>
