@@ -3,6 +3,7 @@ title: ""
 permalink: /industry_research/
 layout: splash
 ---
+## 
 <!-- Strong Analytics Project -->
 <div class="project-card featured">
   <div class="card-main">
