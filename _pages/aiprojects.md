@@ -4,6 +4,40 @@ permalink: /aiprojects/
 layout: splash
 ---
 ## AI Projects
+<!-- SIDE PROJECT SENTIMENT ANALYSIS -->
+<div class="project-card featured">
+  <div class="card-main">
+    <div class="card-badge">💡 Side Project</div>
+    <div class="card-title">People Analtyics: Sentiment Analysis on open-ended employee survey responses</div>
+    
+    <div class="card-body">
+      Built a sentiment analysis pipeline using an open-source large language model to analyze a dataset containing 400 open-ended employee survey responses. I’ve been building meaningful relationships in the People Analytics space and a common question across teams and industries is the desire to utilize open-ended survey responses on employee surveys. Open-ended survey responses contain the richest qualitative signal in any employee dataset, but hand-coding thousands of responses is prohibitively slow. Further, datasets can vary in size, which means fine-tuning an NLP model is not an option. The challenge is finding something that can work out of box to automate coding sentiment.
+    </div>
+    
+    <div class="card-meta">
+      <span class="tag tag-blue">Python</span>
+      <span class="tag tag-slate">Open Source LLMs</span>
+      <span class="tag tag-slate">NLP</span>
+      <span class="tag tag-slate">Data Pipelines</span>
+    </div>
+  </div>
+
+  <div class="card-detail">
+    <div class="detail-row">
+      <span class="detail-label">The Question</span>
+      <span class="detail-value">How can People Analytics teams extract meaningful signal from open-ended employee survey responses without spending months on manual coding?</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">What I Did</span>
+      <span class="detail-value">Using an open source LLM via HuggingFace, I was able to use a model to automate sentiment on open-ended employee survey responses.</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Impact & Metrics</span>
+      <span class="detail-value highlight-teal">The tool makes qualitative survey data tractable at scale — giving People Analytics teams access to the full richness of what employees actually write, not just how they rate things on a Likert scale.</span>
+    </div>
+  </div>
+</div>
+
 <!-- NYU NLP PROJECT -->
 <div class="project-card featured">
   <div class="card-main">
@@ -34,40 +68,6 @@ layout: splash
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
       <span class="detail-value highlight-teal"><strong>77% overall model accuracy</strong> achieved against human-coded benchmarks. This reduced our manual text process time by <strong>50%</strong>, which allowed us to expedite time to completion for research projects.</span>
-    </div>
-  </div>
-</div>
-
-<!-- SIDE PROJECT SENTIMENT ANALYSIS -->
-<div class="project-card featured">
-  <div class="card-main">
-    <div class="card-badge">💡 Side Project</div>
-    <div class="card-title">Sentiment Analysis on open-ended employee survey responses</div>
-    
-    <div class="card-body">
-      Built a sentiment analysis pipeline using an open-source large language model to analyze a dataset containing 400 open-ended employee survey responses. I’ve been building meaningful relationships in the People Analytics space and a common question across teams and industries is the desire to utilize open-ended survey responses on employee surveys. Open-ended survey responses contain the richest qualitative signal in any employee dataset, but hand-coding thousands of responses is prohibitively slow. Further, datasets can vary in size, which means fine-tuning an NLP model is not an option. The challenge is finding something that can work out of box to automate coding sentiment.
-    </div>
-    
-    <div class="card-meta">
-      <span class="tag tag-blue">Python</span>
-      <span class="tag tag-slate">Open Source LLMs</span>
-      <span class="tag tag-slate">NLP</span>
-      <span class="tag tag-slate">Data Pipelines</span>
-    </div>
-  </div>
-
-  <div class="card-detail">
-    <div class="detail-row">
-      <span class="detail-label">The Question</span>
-      <span class="detail-value">How can People Analytics teams extract meaningful signal from open-ended employee survey responses without spending months on manual coding?</span>
-    </div>
-    <div class="detail-row">
-      <span class="detail-label">What I Did</span>
-      <span class="detail-value">Using an open source LLM via HuggingFace, I was able to use a model to automate sentiment on open-ended employee survey responses.</span>
-    </div>
-    <div class="detail-row">
-      <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal">The tool makes qualitative survey data tractable at scale — giving People Analytics teams access to the full richness of what employees actually write, not just how they rate things on a Likert scale.</span>
     </div>
   </div>
 </div>
