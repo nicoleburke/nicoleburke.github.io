@@ -67,7 +67,7 @@ layout: splash
     </div>
     <div class="detail-row">
       <span class="detail-label">Impact & Metrics</span>
-      <span class="detail-value highlight-teal">Presented final presentation to Executive and Research Leadership to showcase how specifically our product was superior to the industry-standard software. The insights from this presentation where used as the basis for how to pitch the product to a broader field of researchers.</span>
+      <span class="detail-value highlight-teal">Presented final presentation to Executive and Research Leadership to showcase how specifically our product was superior to the industry-standard software. The insights from this presentation were used as the basis for how to pitch the product to a broader field of researchers.</span>
     </div>
   </div>
 </div>
