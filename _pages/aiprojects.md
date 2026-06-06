@@ -12,7 +12,12 @@ layout: splash
     
     <div class="card-body">
       Built a sentiment analysis pipeline using an open-source large language model to analyze a dataset containing 400 open-ended employee survey responses. I’ve been building meaningful relationships in the People Analytics space and a common question across teams and industries is the desire to utilize open-ended survey responses on employee surveys. Open-ended survey responses contain the richest qualitative signal in any employee dataset, but hand-coding thousands of responses is prohibitively slow. Further, datasets can vary in size, which means fine-tuning an NLP model is not an option. The challenge is finding something that can work out of box to automate coding sentiment.
+      <br><br>
+      <a href="https://github.com/nicoleburke/employee_sentiment_analysis" target="_blank" style="display: inline-flex; align-items: center; color: #2c4a52; font-weight: 600; text-decoration: none; border-bottom: 2px solid #c5ecf2; padding-bottom: 2px; transition: color 0.2s ease;" onmouseover="this.style.color='#4a7c8a'; this.style.borderBottomColor='#2c4a52'" onmouseout="this.style.color='#2c4a52'; this.style.borderBottomColor='#c5ecf2'">
+        Github Repository 🐙
+      </a>
     </div>
+
     
     <div class="card-meta">
       <span class="tag tag-blue">Python</span>
